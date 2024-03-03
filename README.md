@@ -1,2 +1,2 @@
-# ANDRE M. CHANG
+ANDRE M. CHANG
 # andremchang.github.io
