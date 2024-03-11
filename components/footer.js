@@ -32,7 +32,7 @@
       <footer>
         <ul>
           <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-          <li><small>Last updated: 3 Mar 2024</small></li>
+          <li><small>Last updated: 10 Mar 2024</small></li>
         </ul>
         <ul class="social-row">
           <li><a href="index.html">Home</a></li>

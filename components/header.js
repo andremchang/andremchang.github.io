@@ -12,8 +12,7 @@
           align-items: center;
           justify-content: center;
           background-color:  #f8f8f8;
-        }
-        
+        }    
         ul li {
           list-style: none;
           display: flex;
