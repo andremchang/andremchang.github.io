@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+<style>
+        
+            
+            
+
+            <!-- h1 { font-family: Inconsolata; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20px; } -->
+            h1 { font-family: Inconsolata; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 24px; }
+            h2 { font-family: Inconsolata; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 24px; } 
+            h3 { font-family: Inconsolata; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 24px; } 
+            p { font-family: Inconsolata; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } 
+            blockquote { font-family: Inconsolata; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; } 
+            pre { font-family: Inconsolata; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; }   
+            span { font-family: Inconsolata; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; }
+            figcaption { font-family: Inconsolata; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 24px; }</style>    
+</head>
+
+<body>
+
+        <!-- body {
+            text-align: center;
+            background-color: #f8f8f8;
+        } -->
+
+
+
+body {
+            text-align: center;
+            background-color: #f8f8f8;
+        }
+
+div.Max-width {
+  max-width: 1000px;
+  margin: auto;
+  }
+
+ p {
+            /* highlight */
+            padding: 10px;
+            line-height: 150%;
+            margin: 10px;
+}
+
+        .highlight {
+	background-color: #303030;
+	line-height: 150%;
+}
+
+</body>
+</html>

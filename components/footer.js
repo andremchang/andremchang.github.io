@@ -15,6 +15,8 @@
         }
         
         ul li {
+          font-family: Inconsolata;
+          line-height: 24px;
           list-style: none;
           display: flex;
           justify-content: center;
@@ -36,7 +38,6 @@
         </ul>
         <ul class="social-row">
           <li><a href="index.html">Home</a></li>
-          <li><a href="contact.html">Contact</a></li>
           <li><a href="https://mastodon.social/@andremchang">Mastodon</a></li>
         </ul>
         <br>

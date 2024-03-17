@@ -15,6 +15,8 @@
 
         }    
         ul li {
+          font-family: Inconsolata;
+          line-height: 24px;
           list-style: none;
           display: flex;
           justify-content: center;
@@ -31,7 +33,8 @@
       
       <header>
         <ul>
-          <li>Hello / Hola / Olá / <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby> / ハロー / Maitei</li>
+          <li>Hello / Hola / Olá
+          <li><ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt> / ハロー / Maitei</li>
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
         <ul>
@@ -39,7 +42,6 @@
         </ul>
         <ul class="social-row">
           <li><a href="index.html">Home</a></li>
-          <li><a href="contact.html">Contact</a></li>
         </ul>
       </header>
     `;
