@@ -27,7 +27,7 @@
         }
         
         .social-row li a {
-          margin: 0 14px;
+          margin: 0 5px;
         }
       </style>
       

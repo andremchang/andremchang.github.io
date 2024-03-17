@@ -27,7 +27,7 @@
         }
         
         .social-row li a {
-          margin: 0 14px;
+          margin: 0 5px;
         }   
       </style>
       
@@ -38,7 +38,7 @@
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
         <ul>
-          <li><img alt="ANDRE M. CHANG" width="80px" src="ivj2_400.png" style="height: 84px"></li>        
+          <li><img alt="ANDRE M. CHANG" width="50px" src="ivj2_400.png" style="height: 54px"></li>        
         </ul>
         <ul class="social-row">
           <li><a href="index.html">Home</a></li>
