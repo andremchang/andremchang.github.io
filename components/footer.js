@@ -15,8 +15,8 @@
         }
         
         ul li {
-          font-family: Inconsolata;
-          line-height: 24px;
+          /* font-family: Inconsolata; */
+          /* line-height: 24px; */
           list-style: none;
           display: flex;
           justify-content: center;

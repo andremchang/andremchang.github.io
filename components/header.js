@@ -15,8 +15,8 @@
 
         }    
         ul li {
-          font-family: Inconsolata;
-          line-height: 24px;
+          /* font-family: Inconsolata; */
+          /* line-height: 24px; */
           list-style: none;
           display: flex;
           justify-content: center;
@@ -27,7 +27,7 @@
         }
         
         .social-row li a {
-          margin: 0 5px;
+          margin: 0 1px;
         }   
       </style>
       
@@ -38,7 +38,7 @@
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
         <ul>
-          <li><img alt="ANDRE M. CHANG" width="50px" src="ivj2_400.png" style="height: 54px"></li>        
+          <li><img alt="ANDRE M. CHANG" width="40px" src="ivj2_400.png" style="height: 44px"></li>        
         </ul>
         <ul class="social-row">
           <li><a href="index.html">Home</a></li>
