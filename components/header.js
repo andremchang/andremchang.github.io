@@ -33,14 +33,11 @@
       
       <header>
         <ul>
-          <li>Hello / Hola / Olá
-          <li><ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt> / ハロー / Maitei</li>
+          <li>Hello / Hola / Olá / <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby> / ハロー / Maitei</li>
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
-        <ul>
-          <li><img alt="ANDRE M. CHANG" width="40px" src="ivj2_400.png" style="height: 44px"></li>        
-        </ul>
         <ul class="social-row">
+         <li><img alt="ANDRE M. CHANG" width="50px" src="ivj2_400.png" style="height: 54px"></li>
           <li><a href="index.html">Home</a></li>
         </ul>
       </header>
