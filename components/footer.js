@@ -34,11 +34,11 @@
       <footer>
         <ul>
           <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-          <li><small>Updated on March 17, 2024</small></li>
+          <li><small>Updated on March 31, 2024</small></li>
         </ul>
         <ul class="social-row">
           <li><a href="index.html">Home</a></li>
-          <li><a href="https://mastodon.social/@andremchang">Mastodon</a></li>
+          <li><a rel="me" href="https://mastodon.social/@andremchang">Mastodon</a></li>
         </ul>
         <br>
       </footer>
