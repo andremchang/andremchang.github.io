@@ -34,7 +34,7 @@
       <footer>
         <ul>
           <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-          <li><small>Updated on April 27, 2024</small></li>
+          <li><small>Updated on April 28, 2024</small></li>
         </ul>
         <ul class="social-row">
           <li><a href="index.html">Home</a></li>
