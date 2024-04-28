@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+﻿﻿<!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
@@ -23,13 +23,39 @@ body {
         }
         
 button {
-    background-color: #007bff;
+    background-color: transparent /*#007bff;*/
     color: #ffffff;
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 4px;
     cursor: pointer;
 }
+
+/*Link Color*/
+a:link {
+  color: #999999;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #999999;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #999999;
+  background-color: transparent;
+  text-decoration: underline;
+}
+/*End Link Color*/
 
 div.Max-width {
   max-width: 1000px;
@@ -71,7 +97,7 @@ body.dark-mode header {
 }
 
 body.dark-mode button {
-    background-color: #17a2b8;
+    background-color: transparent /*#17a2b8;*/
 }
 
 </style>    
