@@ -1,1 +1,6 @@
 https://andremchang.github.io/index.html
+https://andremchang.github.io/about-me.html
+https://andremchang.github.io/sobre-mi.html
+https://andremchang.github.io/sobre-min.html
+https://andremchang.github.io/about-zh.html
+https://andremchang.github.io/afp-certificates.html
