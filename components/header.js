@@ -33,7 +33,7 @@
       
       <header>
         <ul>  
-          <li>Hello / Hola / Olá / <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby> / ハロー / Maitei</li><br>
+          <li>Hello Hola Olá ハロー Maitei <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby></li>
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
         <ul class="social-row">
