@@ -37,7 +37,7 @@
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
         <ul class="social-row">
-          <li><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png" style="height: 54px"></li>
+          <li><img alt="ANDRE M. CHANG" width="60px" src="assets/ivj2_400.png"></li>
           <li><a href="index.html">Home</a></li>
         </ul>
       </header>
