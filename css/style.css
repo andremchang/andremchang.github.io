@@ -88,12 +88,12 @@ div.Max-width {
 
 /* Dark mode styles */
 body.dark-mode {
-    background-color: #000000;
+    background-color: #333333;
     color: #f8f8f8;
 }
 
 body.dark-mode header {
-    background-color: #000000;
+    background-color: #333333;
 }
 
 body.dark-mode button {
