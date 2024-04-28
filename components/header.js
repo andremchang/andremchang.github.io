@@ -32,11 +32,13 @@
       </style>
       
       <header>
-      <ul class="social-row">
-        <li>Hello / Hola / Olá / <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby> / ハロー / Maitei</li>
-        <li><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png" style="height: 54px"></li>
-        <li><b>ANDRE M. CHANG</b></li>
-        <li><a href="index.html">Home</a></li>
+        <ul>  
+          <li>Hello / Hola / Olá / <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby> / ハロー / Maitei</li><br>
+          <li><b>ANDRE M. CHANG</b></li>
+        </ul>
+        <ul class="social-row">
+          <li><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png" style="height: 54px"></li>
+          <li><a href="index.html">Home</a></li>
         </ul>
       </header>
     `;
