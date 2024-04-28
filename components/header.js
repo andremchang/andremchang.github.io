@@ -37,8 +37,8 @@
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
         <ul class="social-row">     
-          <li><a href="index.html"><img alt="ANDRE M. CHANG" width="60px" src="assets/ivj2_400.png"></a></li>
-          <button id='dark-mode-toggle'>Light/Dark</button>
+          <li><a href="index.html"><img alt="ANDRE M. CHANG" width="70px" src="assets/ivj2_400.png"></a></li>
+          <button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button>
         </ul>
       </header>
     `;
