@@ -36,9 +36,9 @@
           <li>Hello Hola Olá ハロー Maitei <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby></li>
           <li><b>ANDRE M. CHANG</b></li>
         </ul>
-        <ul class="social-row">
-          <li><img alt="ANDRE M. CHANG" width="60px" src="assets/ivj2_400.png"></li>
-          <li><a href="index.html">Home</a></li>
+        <ul class="social-row">     
+          <li><a href="index.html"><img alt="ANDRE M. CHANG" width="60px" src="assets/ivj2_400.png"></a></li>
+          <button id='dark-mode-toggle'>Light/Dark</button>
         </ul>
       </header>
     `;

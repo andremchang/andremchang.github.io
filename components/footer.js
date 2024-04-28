@@ -37,10 +37,11 @@
           <li><small>Updated on April 28, 2024</small></li>
         </ul>
         <ul class="social-row">
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html"><img alt="ANDRE M. CHANG" width="60px" src="assets/ivj2_400.png"></a></li>
         </ul>
         <br>
       </footer>
+      <script src="script.js"></script>
     `;
   }
 }
