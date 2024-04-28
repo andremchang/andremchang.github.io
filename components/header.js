@@ -33,9 +33,9 @@
       
       <header>
       <ul class="social-row">
-        <li>Hello / Hola / Olá / <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby> / ハロー / Maitei</li></ul>
-        <ul><li><b>ANDRE M. CHANG</b></li>
+        <li>Hello / Hola / Olá / <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby> / ハロー / Maitei</li>
         <li><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png" style="height: 54px"></li>
+        <li><b>ANDRE M. CHANG</b></li>
         <li><a href="index.html">Home</a></li>
         </ul>
       </header>
