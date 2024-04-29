@@ -1,8 +1,7 @@
-﻿class Header extends HTMLElement {
+﻿﻿class Header extends HTMLElement {
   constructor() {
     super();
   }
-  
   connectedCallback() {
     this.innerHTML = `
       <style>
@@ -12,7 +11,6 @@
           align-items: center;
           justify-content: center;
           background-color:  #auto;
-
         }    
         ul li {
           /* font-family: Inconsolata; */
@@ -20,17 +18,14 @@
           list-style: none;
           display: flex;
           justify-content: center;
-        }
-                    
+        }                 
         .social-row {
           font-size: auto;
         }
-        
-        .social-row li a {
+          .social-row li a {
           margin: 0 1px;
         }   
       </style>
-      
       <header>
         <ul>  
           <li>Hello Hola Olá ハロー Maitei <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby></li>
@@ -44,5 +39,4 @@
     `;
   }
 }
-
 customElements.define('header-component', Header);
