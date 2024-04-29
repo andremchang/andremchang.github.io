@@ -33,25 +33,25 @@ button {
 
 /*Link Color*/
 a:link {
-  color: #999999;
+  color: #919191;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #999999;
+  color: #919191;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:hover {
-  color: green;
+  color: #1880ff;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #999999;
+  color: #919191;
   background-color: transparent;
   text-decoration: underline;
 }
