@@ -30,7 +30,7 @@
       <footer>
         <ul>
           <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-          <li><small>Updated on April 28, 2024</small></li>
+          <li><small>Updated on May 05, 2024</small></li>
         </ul>
         <ul class="social-row">
           <li><a href="index.html"><img alt="ANDRE M. CHANG" width="70px" src="assets/ivj2_400.png"></a></li>
