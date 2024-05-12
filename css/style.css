@@ -100,6 +100,27 @@ body.dark-mode button {
     background-color: transparent /*#17a2b8;*/
 }
 
+/* My button styles */
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 6px; /* Place the button at the bottom of the page */
+  right: 13px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #000000; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 7px; /* Some padding */
+  border-radius: 0px; /* Rounded corners */
+  font-size: 28px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #183EFF; /* Add a blue background on hover */
+}
+
 </style>    
 </head>
 <body>
