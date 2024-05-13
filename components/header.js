@@ -32,13 +32,14 @@
         </ul>
         <!-- <ul class="social-row"> -->
         <ul>
-          <li>ANDRE M. CHANG</li>
+          <li><b>ANDRE M. CHANG</b></li>
           <li><a href="index.html">Home</a></li>
         </ul>
         <ul>
           <li><button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
         </ul>
       </header>
+      <script src="script.js"></script>
     `;
   }
 }

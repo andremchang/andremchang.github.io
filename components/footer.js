@@ -36,7 +36,6 @@
         <ul>
           <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
         </ul>
-        <br>
       </footer>
       <script src="script.js"></script>
     `;
