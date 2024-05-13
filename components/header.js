@@ -32,7 +32,7 @@
         </ul>
         <!-- <ul class="social-row"> -->
         <ul>
-          <li><b>ANDRE M. CHANG</b></li>
+          <li>ANDRE M. CHANG</li>
           <li><a href="index.html">Home</a></li>
         </ul>
         <ul>
