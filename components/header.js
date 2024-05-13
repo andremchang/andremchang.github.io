@@ -13,8 +13,8 @@
           background-color: auto;
         }
         ul li {
-          /* font-family: Inconsolata; */
-          /* line-height: auto; */
+          <!-- font-family: Inconsolata; -->
+          line-height: 20px;
           list-style: none;
           display: flex;
           justify-content: center;
@@ -30,7 +30,8 @@
         <ul>
           <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
         </ul>
-        <ul class="social-row">
+        <!-- <ul class="social-row"> -->
+        <ul>
           <li><b>ANDRE M. CHANG</b></li>
           <li><a href="index.html">Home</a></li>
         </ul>

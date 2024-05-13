@@ -10,11 +10,11 @@
           display: flex;
           align-items: center;
           justify-content: center;
-          background-color:  auto;
+          background-color: auto;
         }
         ul li {
-          /* font-family: Inconsolata; */
-          /* line-height: 20px; */
+          <!-- font-family: Inconsolata; -->
+          line-height: 20px;
           list-style: none;
           display: flex;
           justify-content: center;
@@ -32,7 +32,8 @@
           <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
           <li><small>Updated on May 12, 2024</small></li>
         </ul>
-        <ul class="social-row">
+        <!-- <ul class="social-row"> -->
+        <ul>
           <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
         </ul>
         <br>
