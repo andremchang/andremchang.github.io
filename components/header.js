@@ -10,30 +10,32 @@
           display: flex;
           align-items: center;
           justify-content: center;
-          background-color:  #auto;
-        }    
+          background-color: auto;
+        }
         ul li {
           /* font-family: Inconsolata; */
-          /* line-height: 24px; */
+          /* line-height: auto; */
           list-style: none;
           display: flex;
           justify-content: center;
-        }                 
+        }
         .social-row {
           font-size: auto;
         }
-          .social-row li a {
-          margin: 0 1px;
-        }   
+        .social-row li a {
+          margin: 0 5px;
+        }
       </style>
       <header>
-        <ul>  
-          <li>Hello Hola Olá ハロー Maitei <ruby>你好<rt>ㄋㄧˇㄏㄠˇ</rt></ruby></li>
-          <li><b>ANDRE M. CHANG</b></li>
+        <ul>
+          <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
         </ul>
-        <ul class="social-row">     
-          <li><a href="index.html"><img alt="ANDRE M. CHANG" width="70px" src="assets/ivj2_400.png"></a></li>
-          <button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button>
+        <ul class="social-row">
+          <li><b>ANDRE M. CHANG</b></li>
+          <li><a href="index.html">Home</a></li>
+        </ul>
+        <ul>
+          <li><button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
         </ul>
       </header>
     `;
