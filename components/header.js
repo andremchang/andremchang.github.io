@@ -30,13 +30,12 @@
         <ul>
           <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
         </ul>
-        <!-- <ul class="social-row"> -->
         <ul>
           <li><b>ANDRE M. CHANG</b></li>
-          <li><a href="index.html">Home</a></li>
-        </ul>
-        <ul>
-          <li><button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
+		</ul>
+		  <ul class="social-row">
+		  <li><button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
+		  <li><a href="index.html">Home</a></li>
         </ul>
       </header>
       <script src="script.js"></script>
