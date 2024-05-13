@@ -23,7 +23,7 @@
           font-size: auto;
         }
         .social-row li a {
-          margin: 0 5px;
+          margin: 0 0px;
         }
       </style>
       <header>
