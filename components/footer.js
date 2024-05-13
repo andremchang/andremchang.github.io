@@ -14,16 +14,13 @@
         }
         ul li {
           <!-- font-family: Inconsolata; -->
-          line-height: 20px;
+          line-height: auto;
           list-style: none;
           display: flex;
           justify-content: center;
         }
         .social-row {
           font-size: auto;
-        }
-        .social-row li a {
-          margin: 0 0px;
         }
       </style>
       <footer>
