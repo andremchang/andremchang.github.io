@@ -21,12 +21,13 @@ body {
             line-height:1.5;
             font-style: normal; font-variant: normal;
         }
-        
+
+/* Dark mode button */
 button {
     background-color: transparent /*#007bff;*/
     color: #ffffff;
     border: none;
-    padding: 0.5rem 1rem;
+    padding: 0.3rem 0.3rem;
     border-radius: 4px;
     cursor: pointer;
 }
@@ -120,10 +121,8 @@ body.dark-mode button {
 #myBtn:hover {
   background-color: #183EFF; /* Add a blue background on hover */
 }
-
-</style>    
+</style>
 </head>
 <body>
-
 </body>
 </html>
