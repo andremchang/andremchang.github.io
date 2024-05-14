@@ -30,8 +30,7 @@
       </style>
       <header>
         <ul class="header-row">
-          <li><b>ANDRE M. CHANG</b></li>
-		  <li><button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
+          <li><b>ANDRE M. CHANG</b>&nbsp;<button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
 		  <li><a href="index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="online-presence.html">Links </a>&nbsp;|&nbsp;<a href="blog-post.html">Blog</a></li>
 		</ul>
       </header>
