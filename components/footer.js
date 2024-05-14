@@ -30,7 +30,7 @@
       </style>
       <footer>
 		<ul class="footer-row">
-		  <li>Commissions, projects, etc.:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a>&nbsp;(Currently in Asuncion, Paraguay)</li>
+		  <li>Commissions, projects, etc.:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a>&nbsp;|&nbsp;Currently in Asuncion, Paraguay</li>
 		<hr>
 		  <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
 		  <li><a href="index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="online-presence.html">Links</a>&nbsp;|&nbsp;<a href="blog-post.html">Blog</a></li>
