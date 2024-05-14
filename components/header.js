@@ -33,9 +33,6 @@
           <li><b>ANDRE M. CHANG</b></li>
 		  <li><a href="index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="online-presence.html">Online presence</a>&nbsp;|&nbsp;<a href="blog-post.html">Blog</a></li>
 		</ul>
-        <ul class="header-row">
-
-		</ul>
 		  <ul class="header-row">
 		  <li><button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
         </ul>
