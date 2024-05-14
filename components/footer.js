@@ -29,11 +29,9 @@
         }
       </style>
       <footer>
-        <ul class="footer-row">
-		  <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
-		</ul>
 		<ul class="footer-row">
-		  <li><small><a href="index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="online-presence.html">Online presence</a>&nbsp;|&nbsp;<a href="blog-post.html">Blog</a></small></li>
+		  <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
+		  <li><a href="index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="online-presence.html">Links</a>&nbsp;|&nbsp;<a href="blog-post.html">Blog</a></li>
           <li><small>Commissions and projects:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a>&nbsp;(Currently in Asuncion, Paraguay)</small></li>
 		  <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
 		  <li><small>Updated on May 13, 2024</small></li>
