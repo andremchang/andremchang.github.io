@@ -1,2 +1,1 @@
-ANDRE M. CHANG
-# andremchang.github.io
+#Website handcrafted by human not by AI. Made with love.
