@@ -34,8 +34,9 @@
 		<hr>
 		  <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
 		  <li><a href="index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="online-presence.html">Links</a>&nbsp;|&nbsp;<a href="blog-post.html">Blog</a></li>
+		  <li><small>Website handcrafted by human not by AI. Made with love.</small></li>
 		  <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-		  <li><small>Updated on May 13, 2024</small></li>
+		  <li><small>Updated on May 14, 2024</small></li>
         </ul>
       </footer>
       <script src="script.js"></script>
