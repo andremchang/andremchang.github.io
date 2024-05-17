@@ -32,11 +32,11 @@
 		<ul class="footer-row">
 		<span>Commissions, projects, etc.:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a>&nbsp;|&nbsp;Currently in Asuncion, Paraguay</span>
 		<hr>
-		  <li><a href="index.html"><img alt="ANDRE M. CHANG" width="50px" src="assets/ivj2_400.png"></a></li>
-		  <li><a href="index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="online-presence.html">Links</a>&nbsp;|&nbsp;<a href="blog-post.html">Blog</a></li>
-		  <li><small>Website handcrafted by human not by AI. Made with love.</small></li>
+		  <li><a href="https://andremchang.github.io/index.html"><img alt="ANDRE M. CHANG" width="50px" src="https://andremchang.github.io/assets/ivj2_400.png"></a></li>
+		  <li><a href="https://andremchang.github.io/index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="https://andremchang.github.io/online-presence.html">Links</a>&nbsp;|&nbsp;<a href="https://andremchang.github.io/posts.html">Posts</a></li>
+		  <li><small>Website handcrafted by human not by AI. Ongoing project. Made with love.</small></li>
 		  <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-		  <li><small>Updated on May 14, 2024</small></li>
+		  <li><small>Updated on May 16, 2024</small></li>
         </ul>
       </footer>
       <script src="script.js"></script>
