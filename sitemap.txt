@@ -5,5 +5,7 @@ https://andremchang.github.io/sobre-min.html
 https://andremchang.github.io/about-zh.html
 https://andremchang.github.io/afp-certificates.html
 https://andremchang.github.io/online-presence.html
-https://andremchang.github.io/posts.html
-https://andremchang.github.io/_posts/notes.html
+https://andremchang.github.io/_posts/entradas.html
+https://andremchang.github.io/_posts/postagens.html
+https://andremchang.github.io/_posts/posts.html
+https://andremchang.github.io/_posts/posts-zh.html
