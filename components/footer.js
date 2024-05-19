@@ -30,13 +30,23 @@
       </style>
       <footer>
 		<ul class="footer-row">
-		<span>Commissions, projects, etc.:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a>&nbsp;|&nbsp;Currently in Asuncion, Paraguay</span>
-		<hr>
+		<span lang="en">:: Commissions, projects, etc.:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a>&nbsp;|&nbsp;Currently in Asuncion, Paraguay ::</span><br>
+		
+		<span class="nblue" lang="en">&nbsp;<a href="https://andremchang.github.io/_posts/posts.html">Posts</a>&nbsp;<small>(Updated: May 17, 2024)</small></span>
+		<span class="nyellow" lang="es">&nbsp;<a href="https://andremchang.github.io/_posts/entradas.html">Entradas</a>&nbsp;<small>(Actualizado: 17 de mayo, 2024)</small></span>
+		<br>
+		<span class="ngreen" lang="pt">&nbsp;<a href="https://andremchang.github.io/_posts/postagens.html">Postagens</a>&nbsp;<small>(Atualizado: 17 de maio, 2024</small></span>
+		<span class="nred" lang="zh-Hant">&nbsp;<a href="https://andremchang.github.io/_posts/posts-zh.html">貼文</a>&nbsp;<small>(更新: 2024年5月17日)</small></span>
+		<br>
 		  <li><a href="https://andremchang.github.io/index.html"><img alt="ANDRE M. CHANG" width="50px" src="https://andremchang.github.io/assets/ivj2_400.png"></a></li>
-		  <li><a href="https://andremchang.github.io/index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="https://andremchang.github.io/online-presence.html">Links</a></li>
+		<nav>
+		   <a href="https://andremchang.github.io/index.html">Home</a> |
+		   <a href="https://andremchang.super.site/showcase">Showcase</a> |
+		   <a href="https://andremchang.github.io/online-presence.html">Links</a>
+		</nav>
 		  <li><small>Website handcrafted by human not by AI. Ongoing project. Made with love.</small></li>
 		  <li><small>Copyright © 2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-		  <li><small>Updated on May 16, 2024</small></li>
+		  <li><small>Updated on May 19, 2024</small></li>
         </ul>
       </footer>
       <script src="script.js"></script>

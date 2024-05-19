@@ -30,8 +30,13 @@
       </style>
       <header>
         <ul class="header-row">
-          <li><b>ANDRE M. CHANG</b>&nbsp;<button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button></li>
-		  <li><a href="https://andremchang.github.io/index.html">Home</a>&nbsp;|&nbsp;<a href="https://andremchang.super.site/showcase">Showcase</a>&nbsp;|&nbsp;<a href="https://andremchang.github.io/online-presence.html">Links</a></li>
+          <li><b>ANDRE M. CHANG</b></li>
+		  <span class="lblue">en</span> <span class="lyellow">es</span> <span class="lgreen">pt</span> <span class="lred">zh</span>&nbsp;<button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button>
+		  <nav>
+		   <a href="https://andremchang.github.io/index.html">Home</a> |
+		   <a href="https://andremchang.super.site/showcase">Showcase</a> |
+		   <a href="https://andremchang.github.io/online-presence.html">Links</a>
+		  </nav>
 		</ul>
       </header>
       <script src="script.js"></script>
