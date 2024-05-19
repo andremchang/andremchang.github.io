@@ -1,4 +1,4 @@
-﻿﻿<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
@@ -24,7 +24,7 @@ body {
 
 /* Dark mode button */
 button {
-    background-color: transparent /*#007bff;*/
+    background-color: transparent; /*#007bff;*/
     color: #ffffff;
     border: none;
     padding: 0.3rem 0.3rem;
@@ -34,13 +34,13 @@ button {
 
 /*Link Color*/
 a:link {
-  color: #919191;
+  color: #8c8dff;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #919191;
+  color: #8c8dff;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -52,7 +52,7 @@ a:hover {
 }
 
 a:active {
-  color: #919191;
+  color: #8c8dff;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -67,6 +67,8 @@ div.Max-width {
    h1 { font-size: 25px; font-weight: 620; }
    h2 { font-size: 22px; font-weight: 620; }
    h3 { font-size: 19px; font-weight: 620; }
+   h4 { font-size: 22px; font-weight: 620; font-style: bold; line-height:0.2;}
+   h5 { font-size: 14px; font-weight: 320; line-height:0.2;}
    p { font-size: 17px; font-weight: 320; }
    blockquote { font-size: 17px; font-weight: 320; }
    pre { font-size: 17px; font-weight: 320; }
@@ -121,6 +123,48 @@ body.dark-mode button {
 #myBtn:hover {
   background-color: #183EFF; /* Add a blue background on hover */
 }
+
+
+/* Add a card effect for post */
+.card {
+  background-color: auto;
+  padding: 5px 50px;
+  margin-top: 10px;
+  box-shadow: 0 0px 5px 0 rgba(0,0,0,0.25);
+  transition: 0.3s;
+  border-radius: 15px;
+}
+  /* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 0px 20px 0 rgba(0,0,0,0.25);
+}
+  /* label */
+.lgreen {background-color: #00D000;
+  color:#ffffff;
+  padding: 1px;} /* Green */
+.lblue {background-color: #183EFF;
+  color:#ffffff;
+  padding: 1px;} /* Blue */
+.lyellow {background-color: #FFD000;
+  color:#000000;
+  padding: 1px;} /* Yellow */
+.lred {background-color: #FF0000;
+  color:#ffffff;
+  padding: 1px;} /* Red */
+
+
+
+
+  /* notes */
+.ngreen {background-color: #auto;
+  border-left: 6px solid #00D000;}
+.nblue {background-color: #auto;
+  border-left: 6px solid #183EFF;}
+.nyellow {background-color: #auto;
+  border-left: 6px solid #FFD000;}
+.nred {background-color: #auto;
+  border-left: 6px solid #FF0000;}
+
 </style>
 </head>
 <body>
