@@ -32,10 +32,10 @@
 		<ul class="footer-row">
 		<span lang="en">Commissions, projects, etc.:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a></span>&nbsp;<span class="nblue">&nbsp;</span>Currently in Asuncion, Paraguay</span><br>
 		
-		<span class="nblue" lang="en">&nbsp;<a href="https://andremchang.github.io/posts.html">Posts</a>&nbsp;<small>(Updated: May 17, 2024)</small></span>
-		<span class="nyellow" lang="es">&nbsp;<a href="https://andremchang.github.io/entradas.html">Entradas</a>&nbsp;<small>(Actualizado: 17 de mayo, 2024)</small></span>
+		<span class="nblue" lang="en">&nbsp;<a href="https://andremchang.github.io/posts.html">Posts</a>&nbsp;<small>(Updated: May-17-2024)</small></span>
+		<span class="nyellow" lang="es">&nbsp;<a href="https://andremchang.github.io/entradas.html">Entradas</a>&nbsp;<small>(Act.: 17-mayo-2024)</small></span>
 		<br>
-		<span class="ngreen" lang="pt">&nbsp;<a href="https://andremchang.github.io/postagens.html">Postagens</a>&nbsp;<small>(Atualizado: 17 de maio, 2024</small></span>
+		<span class="ngreen" lang="pt">&nbsp;<a href="https://andremchang.github.io/postagens.html">Postagens</a>&nbsp;<small>(Atual.: 17-maio-2024</small></span>
 		<span class="nred" lang="zh-Hant">&nbsp;<a href="https://andremchang.github.io/posts-zh.html">貼文</a>&nbsp;<small>(更新: 2024年5月17日)</small></span>
 		<br>
 		  <li><a href="https://andremchang.github.io/index.html"><img alt="ANDRE M. CHANG" width="50px" src="https://andremchang.github.io/assets/ivj2_400.png"></a></li>
