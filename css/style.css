@@ -67,8 +67,8 @@ div.Max-width {
    h1 { font-size: 25px; font-weight: 620; }
    h2 { font-size: 22px; font-weight: 620; }
    h3 { font-size: 19px; font-weight: 620; }
-   h4 { font-size: 22px; font-weight: 620; font-style: bold; line-height:0.2;}
-   h5 { font-size: 14px; font-weight: 320; line-height:0.2;}
+   h4 { font-size: 22px; font-weight: 620; font-style: bold; line-height:auto;}
+   h5 { font-size: 14px; font-weight: 320; line-height:auto;}
    p { font-size: 17px; font-weight: 320; }
    blockquote { font-size: 17px; font-weight: 320; }
    pre { font-size: 17px; font-weight: 320; }
