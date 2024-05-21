@@ -1,169 +1,147 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="style.css">
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
+	<link rel="stylesheet" href="style.css">
+	<link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 
 <style>
-body {
-    font-family: 'Inconsolata';font-size: auto;
-}
 
 @font-face {
-  /* font-family: "Inconsolata"; src: url('Inconsolata-Regular.otf') format('otf'); */
-  font-family: "Inconsolata"; src: url('inconsolata.woff2') format('woff2');
-   }
+/* font-family: "Inconsolata"; src: url('Inconsolata-Regular.otf') format('otf'); */
+	font-family: "Inconsolata"; src: url('inconsolata.woff2') format('woff2');}
 
 body {
-            text-align: center;
-            background-color: #f8f8f8;
-            font-family: "Inconsolata", Consolas, Monospace;
-            line-height:1.5;
-            font-style: normal; font-variant: normal;
-        }
+	text-align: center;
+	background-color: #f8f8f8;
+	font-family: 'Inconsolata', Consolas, Monospace;
+	line-height:1.5;
+	font-style: normal; 
+	font-variant: normal;
+	font-size: auto;}
 
 /* Dark mode button */
 button {
-    background-color: transparent; /*#007bff;*/
-    color: #ffffff;
-    border: none;
-    padding: 0.3rem 0.3rem;
-    border-radius: 4px;
-    cursor: pointer;
-}
+	background-color: transparent; /*#007bff;*/
+	color: #ffffff;
+	border: none;
+	padding: 0.3rem 0.3rem;
+	border-radius: 4px;
+	cursor: pointer;}
 
 /*Link Color*/
 a:link {
-  color: #8c8dff;
-  background-color: transparent;
-  text-decoration: underline;
-}
+	color: #8c8dff;
+	background-color: transparent;
+	text-decoration: underline;}
 
 a:visited {
-  color: #8c8dff;
-  background-color: transparent;
-  text-decoration: underline;
-}
+	color: #8c8dff;
+	background-color: transparent;
+	text-decoration: underline;}
 
 a:hover {
-  color: #1880ff;
-  background-color: transparent;
-  text-decoration: underline;
-}
+	color: #1880ff;
+	background-color: transparent;
+	text-decoration: underline;}
 
 a:active {
   color: #8c8dff;
   background-color: transparent;
-  text-decoration: underline;
-}
+  text-decoration: underline;}
 /*End Link Color*/
 
 div.Max-width {
-  max-width: 1000px;
-  margin: auto;
-  }
-  
-  
-   h1 { font-size: 25px; font-weight: 620; }
-   h2 { font-size: 22px; font-weight: 620; }
-   h3 { font-size: 19px; font-weight: 620; }
-   h4 { font-size: 22px; font-weight: 620; font-style: bold; line-height:auto;}
-   h5 { font-size: 14px; font-weight: 320; line-height:auto;}
-   p { font-size: 17px; font-weight: 320; }
-   blockquote { font-size: 17px; font-weight: 320; }
-   pre { font-size: 17px; font-weight: 320; }
-   span { font-size: 17px; font-weight: 320; }
-   figcaption { font-size: 15px; font-weight: 320; }
-   li { font-size: 17px; font-weight: 320; }
+	max-width: 900px;
+	margin: auto;}
 
-
-/*  p {
-            <!-- highlight -->
-            padding: 10px;
-            line-height: 150%;
-            margin: 10px;
-} */
-
-        .highlight {
-	background-color: #303030;
-	line-height: 150%;
-}
+h1 { font-size: 25px; font-weight: 620;}
+h2 { font-size: 22px; font-weight: 620;}
+h3 { font-size: 19px; font-weight: 620;}
+h4 { font-size: 22px; font-weight: 620; font-style: bold; line-height: auto;}
+h5 { font-size: 14px; font-weight: 320; line-height: auto;}
+p { font-size: 17px; font-weight: 320;}
+blockquote { font-size: 17px; font-weight: 320;}
+pre { font-size: 17px; font-weight: 320;}
+span { font-size: 17px; font-weight: 320;}
+figcaption { font-size: 15px; font-weight: 320;}
+li { font-size: 17px; font-weight: 320;}
 
 /* Dark mode styles */
 body.dark-mode {
-    background-color: #333333;
-    color: #f8f8f8;
-}
+	background-color: #333333;
+	color: #f8f8f8;}
 
 body.dark-mode header {
-    background-color: #333333;
-}
+	background-color: #333333;}
 
 body.dark-mode button {
-    background-color: transparent /*#17a2b8;*/
-}
+	background-color: transparent /*#17a2b8;*/}
 
 /* My button styles */
 #myBtn {
-  display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
-  bottom: 6px; /* Place the button at the bottom of the page */
-  right: 13px; /* Place the button 30px from the right */
-  z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
-  outline: none; /* Remove outline */
-  background-color: #000000; /* Set a background color */
-  color: white; /* Text color */
-  cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 7px; /* Some padding */
-  border-radius: 0px; /* Rounded corners */
-  font-size: 12px; /* Increase font size */
-}
+	display: none; /* Hidden by default */
+	position: fixed; /* Fixed/sticky position */
+	bottom: 6px; /* Place the button at the bottom of the page */
+	right: 13px; /* Place the button 30px from the right */
+	z-index: 99; /* Make sure it does not overlap */
+	border: none; /* Remove borders */
+	outline: none; /* Remove outline */
+	background-color: #000000; /* Set a background color */
+	color: white; /* Text color */
+	cursor: pointer; /* Add a mouse pointer on hover */
+	padding: 7px; /* Some padding */
+	border-radius: 0px; /* Rounded corners */
+	font-size: 12px; /* Increase font size */}
 
 #myBtn:hover {
-  background-color: #183EFF; /* Add a blue background on hover */
+	background-color: #183EFF; /* Add a blue background on hover */
 }
 
+/*  Add highlight */
+.highlight {
+	background-color: #303030;
+	padding: 10px;
+	line-height: 150%;
+	margin: 10px;}
 
-/* Add a card effect for post */
+/* Add a card effect */
 .card {
-  background-color: auto;
-  padding: 5px 50px;
-  margin-top: 10px;
-  box-shadow: 0 0px 5px 0 rgba(0,0,0,0.25);
-  transition: 0.3s;
-  border-radius: 15px;
-}
-  /* On mouse-over, add a deeper shadow */
+	background-color: rgba(149, 149, 149, 0.050);
+	padding: 1px 50px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	box-shadow: 0 0px 3px 0 rgba(0,0,0,0.25);
+	transition: 0.3s;
+	border-radius: 15px;
+	max-width: auto;}
+	
+/* On mouse-over, add a deeper shadow */
 .card:hover {
-  box-shadow: 0 0px 20px 0 rgba(0,0,0,0.25);
-}
-  /* label */
-.lgreen {background-color: #00D000;
-  color:#ffffff;
-  padding: 1px;} /* Green */
-.lblue {background-color: #183EFF;
-  color:#ffffff;
-  padding: 1px;} /* Blue */
-.lyellow {background-color: #FFD000;
-  color:#000000;
-  padding: 1px;} /* Yellow */
-.lred {background-color: #FF0000;
-  color:#ffffff;
-  padding: 1px;} /* Red */
+	box-shadow: 0 0px 10px 0 rgba(0,0,0,0.25);}
 
+/* Label */
+	.lgreen {background-color: #00D000;
+		color:#ffffff;
+		padding: 1px;} /* Green */
+	.lblue {background-color: #183EFF;
+		color:#ffffff;
+		padding: 1px;} /* Blue */
+	.lyellow {background-color: #FFD000;
+		color:#000000;
+		padding: 1px;} /* Yellow */
+	.lred {background-color: #FF0000;
+		color:#ffffff;
+		padding: 1px;} /* Red */
 
-
-
-  /* notes */
-.ngreen {background-color: #auto;
-  border-left: 6px solid #00D000;}
-.nblue {background-color: #auto;
-  border-left: 6px solid #183EFF;}
-.nyellow {background-color: #auto;
-  border-left: 6px solid #FFD000;}
-.nred {background-color: #auto;
-  border-left: 6px solid #FF0000;}
+/* Notes */
+	.ngreen {background-color: auto;
+		border-left: 6px solid #00D000;}
+	.nblue {background-color: auto;
+		border-left: 6px solid #183EFF;}
+	.nyellow {background-color: auto;
+		border-left: 6px solid #FFD000;}
+	.nred {background-color: auto;
+		border-left: 6px solid #FF0000;}
 
 </style>
 </head>
