@@ -8,13 +8,13 @@
 
 @font-face {
 /* font-family: "Inconsolata"; src: url('Inconsolata-Regular.otf') format('otf'); */
-	font-family: "Inconsolata"; src: url('inconsolata.woff2') format('woff2');}
+	font-family: Inconsolata; src: url(inconsolata.woff2) format(woff2);}
 
 body {
 	text-align: center;
 	background-color: #f8f8f8;
-	font-family: 'Inconsolata', Consolas, Monospace;
-	line-height:1.5;
+	font-family: Inconsolata, Consolas, Monospace;
+	line-height: 1.5;
 	font-style: normal; 
 	font-variant: normal;
 	font-size: auto;}
