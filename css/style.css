@@ -123,16 +123,16 @@ body.dark-mode button {
 /* Label */
 	.lgreen {background-color: #00D000;
 		color:#ffffff;
-		padding: 1px;} /* Green */
+		padding: 3px;} /* Green */
 	.lblue {background-color: #183EFF;
 		color:#ffffff;
-		padding: 1px;} /* Blue */
+		padding: 3px;} /* Blue */
 	.lyellow {background-color: #FFD000;
 		color:#000000;
-		padding: 1px;} /* Yellow */
+		padding: 3px;} /* Yellow */
 	.lred {background-color: #FF0000;
 		color:#ffffff;
-		padding: 1px;} /* Red */
+		padding: 3px;} /* Red */
 
 /* Notes */
 	.ngreen {background-color: auto;
