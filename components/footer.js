@@ -35,9 +35,9 @@
 			<br>
 			<span class="nyellow" lang="es">&nbsp;<a href="https://andremchang.github.io/entradas.html">Entradas</a>&nbsp;<small>(Act. 20-mayo-2024)</small></span>
 			<br>
-			<span class="ngreen" lang="pt">&nbsp;<a href="https://andremchang.github.io/postagens.html">Postagens</a>&nbsp;<small>(Atual. 20-maio-2024</small></span>
+			<span class="ngreen" lang="pt">&nbsp;<a href="https://andremchang.github.io/postagens.html">Postagens</a>&nbsp;<small>(Atual. 20-maio-2024)</small></span>
 			<br>
-			<span class="nred" lang="zh-Hant">&nbsp;<a href="https://andremchang.github.io/posts-zh.html">貼文</a>&nbsp;<small>(更新 2024年5月20日)</small></span>
+			<span class="nred" lang="zh-Hant">&nbsp;<a href="https://andremchang.github.io/posts-zh.html">貼文</a>&nbsp;<small>(2024-05-20 更新)</small></span>
 			<br>
 			<li><a href="https://andremchang.github.io/index.html"><img alt="ANDRE M. CHANG" width="50px" src="https://andremchang.github.io/assets/ivj2_400.png"></a></li>
 			<nav>
