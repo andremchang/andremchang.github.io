@@ -41,14 +41,15 @@ a:visited {
 	text-decoration: underline;}
 
 a:hover {
-	color: #1880ff;
+	color: #8c8dff;
 	background-color: transparent;
-	text-decoration: underline;}
+	text-decoration: underline;
+	text-decoration-thickness: 3px;}
 
 a:active {
-  color: #8c8dff;
-  background-color: transparent;
-  text-decoration: underline;}
+	color: #8c8dff;
+	background-color: transparent;
+	text-decoration: underline;}
 /*End Link Color*/
 
 div.Max-width {
