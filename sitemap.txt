@@ -1,11 +1,13 @@
-https://andremchang.github.io/index.html
-https://andremchang.github.io/about-me.html
-https://andremchang.github.io/sobre-mi.html
-https://andremchang.github.io/sobre-min.html
-https://andremchang.github.io/about-zh.html
-https://andremchang.github.io/afp-certificates.html
-https://andremchang.github.io/online-presence.html
-https://andremchang.github.io/posts.html
-https://andremchang.github.io/entradas.html
-https://andremchang.github.io/postagens.html
-https://andremchang.github.io/posts-zh.html
+User-agent: *
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+Sitemap: https://andremchang.github.io/sitemap
