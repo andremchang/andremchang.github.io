@@ -15,8 +15,8 @@ body {
 
 body {
 	text-align: center;
-	background-color: #f8f8f8;
-	font-family: Inconsolata, Consolas, Monospace;
+	background-color: #333333;
+	font-family: Inconsolata, Consolas, Monospace; color: #ffffff;
 	line-height:1.5;
 	font-style: normal; font-variant: normal;}
 
@@ -70,11 +70,11 @@ li { font-size: 17px; font-weight: 320;}
 
 /* Dark mode styles */
 body.dark-mode {
-	background-color: #333333;
-	color: #f8f8f8;}
+	background-color: #f8f8f8;
+	color: #333333;}
 
 body.dark-mode header {
-	background-color: #333333;}
+	background-color: #f8f8f8;}
 
 body.dark-mode button {
 	background-color: transparent /*#17a2b8;*/}
