@@ -4,10 +4,4 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
-User-agent: Googlebot
-Disallow: /
-
-User-agent: Bingbot
-Disallow: /
-
 Sitemap: https://andremchang.github.io/sitemap
