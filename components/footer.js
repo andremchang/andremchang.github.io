@@ -35,7 +35,7 @@
 			<br>
 			<li><a href="https://andremchang.github.io/index.html"><img alt="ANDRE M. CHANG" width="50px" src="https://andremchang.github.io/assets/ivj2_400.png"></a></li>
 			<nav>
-			<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a>
+			<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a>
 			</nav>
 			<li><small>Website handcrafted by human not by AI. Made with love.</small></li>
 			<li><small>Copyright © 2023-2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
