@@ -33,7 +33,9 @@
 			<span lang="en">Commissions, projects, etc.:&nbsp;<a href="mailto:andre.m.chang@proton.me">email</a>.&nbsp;Currently in Asuncion, Paraguay</span><br>
 			<span class="nblue" lang="en">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/9570">Posts</a></span>&nbsp;<span class="nyellow" lang="es">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/112677">Entradas</a></span>&nbsp;<span class="ngreen" lang="pt">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/156111">Postagens</a></span>&nbsp;<span class="nred" lang="zh-Hant">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/156113">貼文</a></span>
 			<br>
-			<li><a href="https://andremchang.github.io/index.html"><img alt="ANDRE M. CHANG" width="50px" src="https://andremchang.github.io/assets/ivj2_400.png"></a></li>
+		<span class="h-card">
+			<li><a href="https://andremchang.github.io/index.html"><img alt="ANDRE M. CHANG" width="50px" class="u-photo" src="https://andremchang.github.io/assets/ivj2_400.png"></a></li>
+		</span>
 			<nav>
 			<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a>
 			</nav>
