@@ -33,7 +33,8 @@
 			<li><b>ANDRE M. CHANG</b></li>
 			<span class="lblue"><small>en</small></span> <span class="lyellow"><small>es</small></span> <span class="lgreen"><small>pt</small></span> <span class="lred"><small>zh</small></span>&nbsp;<button id='dark-mode-toggle'><style="font-size:16px">&#127768 &#127774</button>
 			<nav>
-				<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a>
+				<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.github.io/_post/post_timeline.html">Blog</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a><br>
+				<a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> 
 			</nav>
 		</ul>
 	</header>
