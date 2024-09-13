@@ -40,7 +40,7 @@
 		</ul>
 	</footer>
 
-	<script src="script.js"></script>`;}
+	<script src="https://andremchang.github.io/components/script.js"></script>`;}
 }
 
 customElements.define('footer-component', Footer);

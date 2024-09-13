@@ -39,7 +39,7 @@
 		</ul>
 	</header>
 
-	<script src="script.js"></script>`;}
+	<script src="https://andremchang.github.io/components/script.js"></script>`;}
 }
 
 customElements.define('header-component', Header);
