@@ -33,10 +33,10 @@
 			<nav>
 			<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a>
 			</nav>
-			<li><span class="nblue" lang="en">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/9570">Posts</a></span>&nbsp;<span class="nyellow" lang="es">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/112677">Entradas</a></span>&nbsp;<span class="ngreen" lang="pt">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/156111">Postagens</a></span>&nbsp;<span class="nred" lang="zh-Hant">&nbsp;<a href="https://buymeacoffee.com/andremchang/posts/156113">貼文</a></span></li>
+			<span class="nblue" lang="en">&nbsp;<a href="https://andremchang.github.io/_post/post_timeline.html">Posts</a></span>&nbsp;<span class="nyellow" lang="es">&nbsp;<a href="https://andremchang.github.io/_post/post_timeline.html">Entradas</a></span>&nbsp;<span class="ngreen" lang="pt">&nbsp;<a href="https://andremchang.github.io/_post/post_timeline.html">Postagens</a></span>&nbsp;<span class="nred" lang="zh-Hant">&nbsp;<a href="https://andremchang.github.io/_post/post_timeline.html">貼文</a></span>
 			<li><small>Website handcrafted by human not by AI. Made with love.</small></li>
 			<li><small>Copyright © 2023-2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-			<li><small>Updated on September 11, 2024</small></li>
+			<li><small>Updated on September 13, 2024</small></li>
 		</ul>
 	</footer>
 
