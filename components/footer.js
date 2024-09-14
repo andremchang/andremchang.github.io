@@ -36,7 +36,7 @@
 			</nav>
 			<li><small>Website handcrafted by human not by AI. Made with love.</small></li>
 			<li><small>Copyright © 2023-2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.</small></li>
-			<li><small>Updated on September 13, 2024</small></li>
+			<li><small>Updated on September 14, 2024</small></li>
 		</ul>
 	</footer>
 
