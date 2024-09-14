@@ -15,39 +15,30 @@ body {
 
 body {
 	text-align: center;
-	background-color: #333333;
-	font-family: Inconsolata, Consolas, Monospace; color: #ffffff;
+	background-color: #3c3c3c;
+	font-family: Inconsolata, Consolas, Monospace; color: #cccccc;
 	line-height:1.5;
 	font-style: normal; font-variant: normal;}
 
-/* Dark mode button */
-button {
-	background-color: transparent; /*#007bff;*/
-	color: #ffffff;
-	border: none;
-	padding: 0.3rem 0.3rem;
-	border-radius: 4px;
-	cursor: pointer;}
-
 /*Link Color*/
 a:link {
-	color: #8c8dff;
+	color: #eeeeee;
 	background-color: transparent;
 	text-decoration: underline;}
 
 a:visited {
-	color: #8c8dff;
+	color: #eeeeee;
 	background-color: transparent;
 	text-decoration: underline;}
 
 a:hover {
-	color: #8c8dff;
+	color: #ffffff;
 	background-color: transparent;
 	text-decoration: underline;
-	text-decoration-thickness: 3px;}
+	text-decoration-thickness: 2px;}
 
 a:active {
-	color: #8c8dff;
+	color: #dddddd;
 	background-color: transparent;
 	text-decoration: underline;}
 /*End Link Color*/
@@ -67,37 +58,6 @@ pre { font-size: 17px; font-weight: 320;}
 span { font-size: 17px; font-weight: 320;}
 figcaption { font-size: 15px; font-weight: 320;}
 li { font-size: 17px; font-weight: 320;}
-
-/* Dark mode styles */
-body.dark-mode {
-	background-color: #f8f8f8;
-	color: #333333;}
-
-body.dark-mode header {
-	background-color: #f8f8f8;}
-
-body.dark-mode button {
-	background-color: transparent /*#17a2b8;*/}
-
-/* My button styles */
-#myBtn {
-	display: none; /* Hidden by default */
-	position: fixed; /* Fixed/sticky position */
-	bottom: 30px; /* Place the button at the bottom of the page */
-	right: 30px; /* Place the button 30px from the right */
-	z-index: 99; /* Make sure it does not overlap */
-	border: none; /* Remove borders */
-	outline: none; /* Remove outline */
-	background-color: #000000; /* Set a background color */
-	color: white; /* Text color */
-	cursor: pointer; /* Add a mouse pointer on hover */
-	padding: 7px; /* Some padding */
-	border-radius: 0px; /* Rounded corners */
-	font-size: 12px; /* Increase font size */}
-
-#myBtn:hover {
-	background-color: #183EFF; /* Add a blue background on hover */
-}
 
 /* Add highlight */
 .highlight {
