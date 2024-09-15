@@ -31,7 +31,7 @@
 	<footer>
 		<ul class="footer-row">
 			<nav>
-			<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.github.io/_post/post_timeline.html">Blog</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a><br>
+			<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.github.io/blog.html">Blog</a> | <a href="https://andremchang.github.io/online-presence.html">Links</a><br>
 			<a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a>
 			</nav>
 			<li><small>Website handcrafted by human not by AI. Made with love.</small></li>
