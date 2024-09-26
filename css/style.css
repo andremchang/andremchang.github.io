@@ -105,6 +105,9 @@ li { font-size: 17px; font-weight: 320;}
 	.nred {background-color: auto;
 		border-left: 6px solid #FF0000;}
 
+img {pointer-events: none;
+}
+
 </style>
 </head>
 <body>
