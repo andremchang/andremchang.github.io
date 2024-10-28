@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://andremchang.github.io/index.html</loc>
-    <lastmod>2024-10-26</lastmod>
-  </url>
+
+   <url>
+      <loc>https://andremchang.github.io/index.html</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+
+   <url>
+      <loc>https://andremchang.github.io/about-me.html</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+   
+   <url>
+      <loc>https://andremchang.github.io/sobre-mi.html</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+   
+   <url>
+      <loc>https://andremchang.github.io/sobre-min.html</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+   
+   <url>
+      <loc>https://andremchang.github.io/about-zh.html</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+   
+   <url>
+      <loc>https://andremchang.github.io/blog.html</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+   
+   <url>
+      <loc>https://andremchang.github.io/links.html</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+   
+   <url>
+      <loc>https://andremchang.github.io/profilepage_andre</loc>
+      <lastmod>2024-10-27</lastmod>
+   </url>
+   
 </urlset>
