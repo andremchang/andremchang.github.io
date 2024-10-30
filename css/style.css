@@ -24,7 +24,7 @@ body {
 a:link {
 	color: #eeeeee;
 	background-color: transparent;
-	text-decoration: underline;}
+	text-decoration: underline gray;}
 
 a:visited {
 	color: #eeeeee;
