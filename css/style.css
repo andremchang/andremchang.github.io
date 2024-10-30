@@ -24,26 +24,30 @@ body {
 a:link {
 	color: #eeeeee;
 	background-color: transparent;
-	text-decoration: underline gray;
+	text-decoration: underline;
+	-webkit-text-decoration-color: grey; /* Safari */  
+	text-decoration-color: grey;
 	text-underline-position: under;}
 
 a:visited {
 	color: #eeeeee;
 	background-color: transparent;
-	text-decoration: underline gray;
+	-webkit-text-decoration-color: grey; /* Safari */  
+	text-decoration-color: grey;
 	text-underline-position: under;}
 
 a:hover {
 	color: #ffffff;
 	background-color: transparent;
 	text-decoration: underline;
-	text-decoration-thickness: 2px;
+	text-decoration-thickness: 1px;
 	text-underline-position: under;}
 
 a:active {
 	color: #dddddd;
 	background-color: transparent;
-	text-decoration: underline gray;
+	-webkit-text-decoration-color: grey; /* Safari */  
+	text-decoration-color: grey;
 	text-underline-position: under;}
 /*End Link Color*/
 
@@ -114,7 +118,7 @@ img {pointer-events: none;
 
 /* Dashed border */
 hr.new1 {
-  border: 1px dashed gray;
+  border: 1px dashed gray;}
 
 </style>
 </head>
