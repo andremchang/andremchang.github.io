@@ -40,7 +40,7 @@ a:hover {
 a:active {
 	color: #dddddd;
 	background-color: transparent;
-	text-decoration: underline;}
+	text-decoration: underline gray;}
 /*End Link Color*/
 
 div.Max-width {
