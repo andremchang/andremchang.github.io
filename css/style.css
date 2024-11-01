@@ -89,29 +89,37 @@ li { font-size: 17px; font-weight: 320;}
 .card:hover {
 	box-shadow: 0 0px 10px 0 rgba(0,0,0,0.50);}
 
-/* Label */
-	.lgreen {background-color: #00D000;
+/* Badge */
+	.bgreen {background-color: #00D000; /* Green */
 		color:#ffffff;
-		padding: 3px;} /* Green */
-	.lblue {background-color: #183EFF;
+		padding: 1px 1px;
+		text-align: center;
+		border-radius: 5px;}
+	.bblue {background-color: #183EFF; /* Blue */
 		color:#ffffff;
-		padding: 3px;} /* Blue */
-	.lyellow {background-color: #FFD000;
+		padding: 1px 1px;
+		text-align: center;
+		border-radius: 5px;}
+	.byellow {background-color: #FFD000; /* Yellow */
 		color:#000000;
-		padding: 3px;} /* Yellow */
-	.lred {background-color: #FF0000;
+		padding: 1px 1px;
+		text-align: center;
+		border-radius: 5px;}
+	.bred {background-color: #FF0000; /* Red */
 		color:#ffffff;
-		padding: 3px;} /* Red */
+		padding: 1px 1px;
+		text-align: center;
+		border-radius: 5px;}
 
 /* Notes */
 	.ngreen {background-color: auto;
-		border-left: 6px solid #00D000;}
+		border-left: 2px solid #00D000;}
 	.nblue {background-color: auto;
-		border-left: 6px solid #183EFF;}
+		border-left: 2px solid #183EFF;}
 	.nyellow {background-color: auto;
-		border-left: 6px solid #FFD000;}
+		border-left: 2px solid #FFD000;}
 	.nred {background-color: auto;
-		border-left: 6px solid #FF0000;}
+		border-left: 2px solid #FF0000;}
 
 img {pointer-events: none;
 }
