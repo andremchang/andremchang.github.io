@@ -31,7 +31,7 @@
 	<header>
 		<ul class="header-row">
 			<li><b>ANDRE M. CHANG</b></li>
-			<span class="lblue"><small>en</small></span> <span class="lyellow"><small>es</small></span> <span class="lgreen"><small>pt</small></span> <span class="lred"><small>zh</small></span>
+			<span class="bblue"><small>en</small></span> <span class="byellow"><small>es</small></span> <span class="bgreen"><small>pt</small></span> <span class="bred"><small>zh</small></span>
 			<nav>
 				<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.github.io/contact.html">Contact</a> | <a href="https://andremchang.github.io/blog.html">Blog</a> | <a href="https://andremchang.github.io/links.html">Links</a><br>
 				<a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> 
