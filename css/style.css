@@ -92,22 +92,22 @@ li { font-size: 17px; font-weight: 320;}
 /* Badge */
 	.bgreen {background-color: #00D000; /* Green */
 		color:#ffffff;
-		padding: 1px 1px;
+		padding: 2px 4px;
 		text-align: center;
 		border-radius: 2px;}
 	.bblue {background-color: #183EFF; /* Blue */
 		color:#ffffff;
-		padding: 1px 1px;
+		padding: 2px 4px;
 		text-align: center;
 		border-radius: 2px;}
 	.byellow {background-color: #FFD000; /* Yellow */
 		color:#000000;
-		padding: 1px 1px;
+		padding: 2px 4px;
 		text-align: center;
 		border-radius: 2px;}
 	.bred {background-color: #FF0000; /* Red */
 		color:#ffffff;
-		padding: 1px 1px;
+		padding: 2px 4px;
 		text-align: center;
 		border-radius: 2px;}
 
