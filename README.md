@@ -1,1 +1,2 @@
-#Website handcrafted by human not by AI. Made with love.
+Site made with ❤︎ 
+Handcrafted by human not by AI
