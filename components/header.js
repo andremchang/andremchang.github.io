@@ -30,8 +30,9 @@
 
 	<header>
 		<ul class="header-row">
-			<li><b>ANDRE M. CHANG</b></li>
-			<span class="bblue"><small>en</small></span> <span class="byellow"><small>es</small></span> <span class="bgreen"><small>pt</small></span> <span class="bred"><small>zh</small></span>
+				<li><img class="u-photo" src="https://andremchang.github.io/assets/headshot_ae.png" width="90px" height="90px" alt="headshot"/></li>
+				<br>
+			<span class="bblue"><small><a href="https://andremchang.github.io/about-me.html">en</a></small></span> <span class="byellow"><small><a href="https://andremchang.github.io/sobre-mi.html">es</a></small></span> <span class="bgreen"><small><a href="https://andremchang.github.io/sobre-min.html">pt</a></small></span> <span class="bred"><small><a href="https://andremchang.github.io/about-zh.html">zh</a></small></span>
 			<nav>
 				<a href="https://andremchang.github.io/index.html">Home</a> | <a href="https://andremchang.github.io/contact.html">Contact</a> | <a href="https://andremchang.github.io/blog.html">Blog</a> | <a href="https://andremchang.github.io/links.html">Links</a><br>
 				<a href="https://andremchang.super.site/published-work">Publications</a> | <a href="https://andremchang.super.site/showcase">Showcase</a> 
