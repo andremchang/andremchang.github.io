@@ -82,6 +82,18 @@
 			margin: 10px;
 		}
 
+		/* Add blinkingText */
+		.blinking {
+			animation:blinkingText 1.2s infinite;
+		}
+		@keyframes blinkingText {
+			0%{	color: #ffffff;    }
+			49%{	color: #ffffff;	}
+			60%{	color: transparent;	}
+			99%{	color: transparent;	}
+			100%{	color: #ffffff;	}
+		}
+
 		/* Add a card effect */
 		.card {
 			background-color: #414141;
