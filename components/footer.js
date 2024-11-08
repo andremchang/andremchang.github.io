@@ -34,7 +34,7 @@
 			<li><small>This site is made with ❤︎ Handcrafted by human not by AI.</small></li>
 			<li><small>Copyright © 2023-2024 ANDRE M. CHANG | AMC VISUAL. All rights reserved.
 			<li><small>Fingerprint: B0C3 C562 C765 ECE8 C110 7897 FDE0 F655 E348 A81E</small> <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/B0C3C562C765ECE8C1107897FDE0F655E348A81E"><small>[Public key]</small></a></li>
-			<li><small>Updated on November 6, 2024</small></li>
+			<li><small>Updated on November 7, 2024</small></li>
 		</ul>
 	</footer>
 
