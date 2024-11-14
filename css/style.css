@@ -69,8 +69,6 @@
 		}
 		span { font-size: 18px; font-weight: 320;
 		}
-		figcaption { font-size: 16px; font-weight: 320;
-		}
 		li { font-size: 18px; font-weight: 320;
 		}
 		b { font-size: 18px; font-weight: 620;
@@ -356,7 +354,7 @@
 			
 			.asyncGallery__Counter {
 				position: absolute;
-				font-size: 20px;
+				font-size: 14px;
 				font-weight: normal;
 				color: #cccccc;
 				right: 40px;
@@ -456,7 +454,6 @@
 			* {
 				font-family: Inconsolata;
 				box-sizing: border-box;
-				font-size: 16px;
 			}
 			
 			body {
@@ -498,20 +495,20 @@
 			
 			@media screen and (max-width: auto) {
 				.asyncGallery__Close {
-				top: 15px;
-				right: 15px;
-				width: 15px;
-				height: 15px;
-				background-size: 15px;
+				top: auto;
+				right: auto;
+				width: auto;
+				height: auto;
+				background-size: auto;
 				}
 			
 				.asyncGallery__Dots {
-				bottom: 15px;
+				bottom: auto;
 				}
 			
 				.asyncGallery__Counter {
-				right: 15px;
-				bottom: 15px;
+				right: auto;
+				bottom: auto;
 				font-size: 12px;
 				}
 			
