@@ -50,6 +50,7 @@
 		div.Max-width {
 			max-width: 800px;
 			margin: auto;
+			width: 95%;
 		}
 
 		h1 { font-size: 26px; font-weight: 620; color:#dddddd;
@@ -463,8 +464,8 @@
 			}
 			
 			.container {
-				max-width: "100%";
-				width: 100%;
+				max-width: "auto";
+				width: auto;
 				margin: 0 auto;
 			}
 			
@@ -495,7 +496,7 @@
 				max-width: 100%;
 			}
 			
-			@media screen and (max-width: 100%) {
+			@media screen and (max-width: auto) {
 				.asyncGallery__Close {
 				top: 15px;
 				right: 15px;
@@ -519,8 +520,8 @@
 				}
 			
 				.asyncGallery__ItemImage img {
-				max-height: none;
-				max-width: 100%;
+				max-height: auto;
+				max-width: auto;
 				}
 			
 				.asyncGallery__ItemDescription {
@@ -538,12 +539,12 @@
 				}
 			
 				.gallery div {
-				max-width: 100%;
+				max-width: auto;
 				margin: 0px 0 0;
 				}
 			
 				.gallery div img {
-				max-width: 100%;
-				min-width: 100%;
+				max-width: auto;
+				min-width: auto;
 				}
 			}
