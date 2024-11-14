@@ -494,54 +494,5 @@
 			}
 			
 			@media screen and (max-width: auto) {
-				.asyncGallery__Close {
-				top: auto;
-				right: auto;
-				width: auto;
-				height: auto;
-				background-size: auto;
-				}
-			
-				.asyncGallery__Dots {
-				bottom: auto;
-				}
-			
-				.asyncGallery__Counter {
-				right: auto;
-				bottom: auto;
-				font-size: 12px;
-				}
-			
-				.asyncGallery__Item {
-				width: 100%;
-				}
-			
-				.asyncGallery__ItemImage img {
-				max-height: auto;
-				max-width: auto;
-				}
-			
-				.asyncGallery__ItemDescription {
-				padding: 0;
-				}
-			
-				.asyncGallery__Next,
-				.asyncGallery__Prev {
-				display: none;
-				}
-			
-				/* Thumbnail Demo */
-				.gallery {
-				display: block;
-				}
-			
-				.gallery div {
-				max-width: auto;
-				margin: 0px 0 0;
-				}
-			
-				.gallery div img {
-				max-width: auto;
-				min-width: auto;
-				}
+
 			}
