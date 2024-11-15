@@ -184,7 +184,7 @@
 				color:#ffffff;
 				padding: 4px 4px;
 				text-align: center;
-				border-radius: 2px;
+				border-radius: 50px;
 			}
 			.bblue {
 				border-color: #183EFF; /* Blue */
@@ -193,7 +193,7 @@
 				color:#ffffff;
 				padding: 4px 4px;
 				text-align: center;
-				border-radius: 2px;
+				border-radius: 50px;
 			}
 			.byellow {
 				border-color: #FFD000; /* Yellow */
@@ -202,7 +202,7 @@
 				color:#ffffff;
 				padding: 4px 4px;
 				text-align: center;
-				border-radius: 2px;
+				border-radius: 50px;
 			}
 			.bred {
 				border-color: #FF0000; /* Red */
@@ -211,7 +211,7 @@
 				color:#ffffff;
 				padding: 4px 4px;
 				text-align: center;
-				border-radius: 2px;
+				border-radius: 50px;
 			}
 			.bwhite {
 				border-color: #ffffff; /* White */
@@ -220,25 +220,29 @@
 				color:#ffffff;
 				padding: 4px 4px;
 				text-align: center;
-				border-radius: 2px;
+				border-radius: 50px;
 			}
 
 		/* Notes */
 			.ngreen {
 				background-color: transparent;
-				border-left: 3px solid #00D000;
+				border-left: 1px solid #00D000;
+				border-radius: 50px;
 			}
 			.nblue {
 				background-color: transparent;
-				border-left: 3px solid #183EFF;
+				border-left: 1px solid #183EFF;
+				border-radius: 50px;
 			}
 			.nyellow {
 				background-color: transparent;
-				border-left: 3px solid #FFD000;
+				border-left: 1px solid #FFD000;
+				border-radius: 50px;
 			}
 			.nred {
 				background-color: transparent;
-				border-left: 3px solid #FF0000;
+				border-left: 1px solid #FF0000;
+				border-radius: 50px;
 			}
 
 			img {
@@ -480,7 +484,7 @@
 			}
 			
 			.gallery div {
-				max-width: 190px;
+				max-width: 220px;
 				margin-top: 10px;
 				margin-right: auto;
 				margin-bottom: 10px;
