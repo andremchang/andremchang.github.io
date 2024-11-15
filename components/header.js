@@ -31,7 +31,7 @@
 
 		<header>
 			<ul class="header-row">
-					<span><a href="https://andremchang.github.io/index.html"><img class="u-photo" src="https://andremchang.github.io/assets/headshot_ae.png" width="70px" height="70px" alt="headshot"/></a></span><br>
+					<span><a href="https://andremchang.github.io/index.html"><img class="u-photo" src="https://andremchang.github.io/assets/headshot_ae.png" width="70px" height="70px" alt="headshot"/></a></span>
 					<span class="bblue"><small><a href="https://andremchang.github.io/about-me.html">en</a></small></span> <span class="byellow"><small><a href="https://andremchang.github.io/sobre-mi.html">es</a></small></span> <span class="bgreen"><small><a href="https://andremchang.github.io/sobre-min.html">pt</a></small></span> <span class="bred"><small><a href="https://andremchang.github.io/about-zh.html">zh</a></small></span><br><br>
 				<nav>
 					<a href="https://andremchang.github.io/index.html">Home</a> | <div class="dropdown"><button class="dropbtn">Projects</button><div class="dropdown-content">
