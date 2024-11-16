@@ -316,10 +316,10 @@
 				display: block;
 			}
 			
-			.asyncGallery__ItemDescription,
-			.asyncGallery__Loader {
+			.asyncGallery__ItemDescription {
 				color: #cccccc;
-				font: small-caption; 
+				font: small-caption;
+				font-size: xx-small;
 			}
 			
 			.asyncGallery__Loader {
@@ -405,8 +405,8 @@
 			.asyncGallery__Prev {
 				position: absolute;
 				top: 50%;
-				width: 10px;
-				height: 10px;
+				width: 20px;
+				height: 40px;
 				z-index: 1000;
 				transition: transform 200ms, opacity 200ms;
 				transform: translateY(-50%);
@@ -432,11 +432,7 @@
 			}
 			
 			.asyncGallery__Next {
-				right: 30px;
-			}
-			
-			.asyncGallery__Next:hover {
-				transform: translateX(5px) translateY(-50%);
+				right: 20%;
 			}
 			
 			.asyncGallery__Next:before {
@@ -444,11 +440,7 @@
 			}
 			
 			.asyncGallery__Prev {
-				left: 30px;
-			}
-			
-			.asyncGallery__Prev:hover {
-				transform: translateX(-5px) translateY(-50%);
+				left: 20%;
 			}
 			
 			.asyncGallery__Prev:before {
@@ -470,11 +462,13 @@
 				width: 100%;
 				margin: auto;
 			}
-			
+			/* Thumbnail Demo */
 			.container img {
-				width: 100%;
+				max-width: 1200px;
+				margin: 0 auto;
 				aspect-ratio: 1.5 / 1;
 				object-fit: scale-down;
+				font: small-caption; 
 			}
 			/* Thumbnail Demo */
 			.gallery {
@@ -484,7 +478,7 @@
 			}
 			
 			.gallery div {
-				max-width: 220px;
+				max-width: calc(33.333% - 40px);
 				margin-top: 10px;
 				margin-right: auto;
 				margin-bottom: 10px;
@@ -501,6 +495,56 @@
 				width: 100%;
 			}
 
-			@media screen and (max-width: 100%) {
-
-			}
+			@media screen and (max-width: 768px) {
+				.asyncGallery__Close {
+				  top: 30px;
+				  right: 30px;
+				  width: 30px;
+				  height: 30px;
+				  background-size: 30px;
+				}
+			  
+				.asyncGallery__Dots {
+				  bottom: 30px;
+				}
+			  
+				.asyncGallery__Counter {
+				  right: 40px;
+				  bottom: 40px;
+				  font-size: 14px;
+				}
+			  
+				.asyncGallery__Item {
+				  width: 100%;
+				}
+			  
+				.asyncGallery__ItemImage img {
+				  max-height: 80vh;
+				  max-width: 100%;
+				}
+			  
+				.asyncGallery__ItemDescription {
+				  padding: 0 20px;
+				}
+			  
+				.asyncGallery__Next,
+				.asyncGallery__Prev {
+				  display: none;
+				}
+			  
+				/* Thumbnail Demo */
+				.gallery {
+				  display: block;
+				}
+			  
+				.gallery div {
+				  max-width: 100%;
+				  margin: 10px 0 0;
+				}
+			  
+				.gallery div img {
+				  max-width: 100%;
+				  min-width: 100%;
+				}
+			  }
+			  
