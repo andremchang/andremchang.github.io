@@ -495,7 +495,7 @@
 			}
 			
 			.gallery div img {
-				width: auto;
+				width: 100%;
 			}
 
 			@media screen and (max-width: 100%) {
