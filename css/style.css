@@ -463,7 +463,7 @@
 			}
 			/* Thumbnail Demo */
 			.container img {
-				max-width: 100%;
+				max-width: auto;
 				margin: 0 auto;
 				aspect-ratio: 1 / 1;
 				object-fit: scale-down;
