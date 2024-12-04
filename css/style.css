@@ -112,7 +112,7 @@
 			display: none;
 			position: absolute;
 			background-color: #414141;
-			min-width: 100%;
+			min-width: 260px;
 			box-shadow: 0 0px 10px 0 #363636;
 			z-index: 1;
 		}
@@ -463,7 +463,7 @@
 			}
 			/* Thumbnail Demo */
 			.container img {
-				max-width: 1200px;
+				max-width: 100%;
 				margin: 0 auto;
 				aspect-ratio: 1 / 1;
 				object-fit: scale-down;
@@ -498,7 +498,7 @@
 				width: 100%;
 			}
 
-			@media screen and (max-width: 768px) {
+			@media screen and (max-width: 100%) {
 				.asyncGallery__Close {
 				  top: 30px;
 				  right: 30px;
@@ -522,7 +522,7 @@
 				}
 			  
 				.asyncGallery__ItemImage img {
-				  max-height: 80vh;
+				  max-height: auto;
 				  max-width: 100%;
 				}
 			  
