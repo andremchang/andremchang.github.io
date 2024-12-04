@@ -431,7 +431,7 @@
 			}
 			
 			.asyncGallery__Next {
-				right: 20%;
+				right: 10%;
 			}
 			
 			.asyncGallery__Next:before {
@@ -439,7 +439,7 @@
 			}
 			
 			.asyncGallery__Prev {
-				left: 20%;
+				left: 10%;
 			}
 			
 			.asyncGallery__Prev:before {
