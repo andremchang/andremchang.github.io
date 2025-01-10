@@ -34,7 +34,7 @@
 					<span><a href="https://andremchang.github.io"><img class="u-photo" src="https://andremchang.github.io/assets/headshot_ae.png" width="70px" height="70px" alt="headshot"/></a></span>
 					<span class="bblue"><small><a href="https://andremchang.github.io/about-me">en</a></small></span> <span class="byellow"><small><a href="https://andremchang.github.io/sobre-mi">es</a></small></span> <span class="bgreen"><small><a href="https://andremchang.github.io/sobre-min">pt</a></small></span> <span class="bred"><small><a href="https://andremchang.github.io/about-zh">zh</a></small></span><br><br>
 				<nav>
-					<a href="https://andremchang.github.io">Home</a> | <a href="https://andremchang.github.io/publications">Publications</a> | 
+					<a href="https://andremchang.github.io/publications">Publications</a> | 
 					<div class="dropdown"><button class="dropbtn">Projects</button>
 						<div class="dropdown-content">
 						<a href="https://andremchang.github.io/japanese_aesthetics">Japanese Aesthetics</a>
