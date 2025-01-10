@@ -110,9 +110,9 @@
 		/* Dropdown Content (Hidden by Default) */
 		.dropdown-content {
 			display: none;
-			position: relative;
+			position: absolute;
 			background-color: #414141;
-			min-width: auto;
+			min-width: max-content;
 			box-shadow: 0 0px 10px 0 #363636;
 			z-index: 1;
 		}
