@@ -10,7 +10,7 @@
 		body {
 			text-align: center;
 			background-color: #3c3c3c;
-			font-family: Inconsolata, Consolas, Monospace; 
+			font-family: Inconsolata; 
 			color: #cccccc;
 			line-height:1.5;
 			font-style: normal; font-variant: normal;
@@ -553,4 +553,4 @@
 				  min-width: 100%;
 				}
 			  }
-			  
+/* END */
