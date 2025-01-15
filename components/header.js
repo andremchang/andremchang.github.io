@@ -32,7 +32,7 @@
 		<header>
 			<ul class="header-row">
 					<span><a href="https://andremchang.github.io"><img class="u-photo" src="https://andremchang.github.io/assets/headshot_ae.png" width="70px" height="70px" alt="headshot"/></a></span>
-					<span class="bblue"><small><a href="https://andremchang.github.io/about-me">en</a></small></span> <span class="byellow"><small><a href="https://andremchang.github.io/sobre-mi">es</a></small></span> <span class="bgreen"><small><a href="https://andremchang.github.io/sobre-min">pt</a></small></span> <span class="bred"><small><a href="https://andremchang.github.io/about-zh">zh</a></small></span><br><br>
+					<span class="bblue"><a href="https://andremchang.github.io/about-me">en</a></span> <span class="byellow"><a href="https://andremchang.github.io/sobre-mi">es</a></span> <span class="bgreen"><a href="https://andremchang.github.io/sobre-min">pt</a></span> <span class="bred"><a href="https://andremchang.github.io/about-zh">zh</a></span><br><br>
 				<nav>
 					<a href="https://andremchang.github.io/publications">Publications</a> | 
 					<div class="dropdown"><button class="dropbtn">Projects</button>
