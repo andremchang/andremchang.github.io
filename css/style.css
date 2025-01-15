@@ -1,17 +1,13 @@
 ﻿﻿		body {
-			font-family : href="https://fonts.googleapis.com/css?family=Inconsolata";
-		}
-
-		@font-face {
-		font-family : Inconsolata;
-		src : url(inconsolata.woff2) format(woff2);
+			font-family : monospace;
 		}
 
 		body {
 			text-align: center;
 			background-color: #3c3c3c;
-			font-family: Inconsolata; 
+			font-family: monospace; 
 			color: #cccccc;
+			font-weight: 320;
 			line-height:1.5;
 			font-style: normal; font-variant: normal;
 		}
@@ -78,8 +74,6 @@
 		ul { font-size: 18px; font-weight: 320;
 		}
 		nav { font-size: 18px; font-weight: 320;
-		}
-		a { font-size: 18px; font-weight: 320;
 		}
 		rt { font-size: 12px; font-weight: 320;
 		}
@@ -182,7 +176,7 @@
 				border-style: solid;
 				border-width: 1px;
 				color:#ffffff;
-				padding: 4px 4px;
+				padding: 5px 5px;
 				text-align: center;
 				border-radius: 50px;
 			}
@@ -191,7 +185,7 @@
 				border-style: solid;
 				border-width: 1px;
 				color:#ffffff;
-				padding: 4px 4px;
+				padding: 5px 5px;
 				text-align: center;
 				border-radius: 50px;
 			}
@@ -200,7 +194,7 @@
 				border-style: solid;
 				border-width: 1px;
 				color:#ffffff;
-				padding: 4px 4px;
+				padding: 5px 5px;
 				text-align: center;
 				border-radius: 50px;
 			}
@@ -209,7 +203,7 @@
 				border-style: solid;
 				border-width: 1px;
 				color:#ffffff;
-				padding: 4px 4px;
+				padding: 5px 5px;
 				text-align: center;
 				border-radius: 50px;
 			}
@@ -218,7 +212,7 @@
 				border-style: solid;
 				border-width: 1px;
 				color:#ffffff;
-				padding: 4px 4px;
+				padding: 5px 5px;
 				text-align: center;
 				border-radius: 50px;
 			}
