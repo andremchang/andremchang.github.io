@@ -3,26 +3,26 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="description" content="my notebook / mi cuaderno / meu caderno / 我的手札">
-	<meta name="keywords" content="ANDRE M. CHANG, AMC VISUAL, Independent visual journalist, Photographic reporter, multicultural, photographer, blog, 網誌">
+	<meta name="keywords" content="blog, 網誌">
 	<meta name="author" content="Andre M. Chang">
 	<meta name="viewport" content="initial-scale=1.0">
 	<!-- Author Attribution -->
 	<meta name="fediverse:creator" content="@andremchang@mastodon.social">
 	<!-- End Author Attribution -->
 	
-	<title>ANDRE'S Blog / 網誌</title>
+	<title>Andre M. Chang's Blog / 網誌</title>
 	
 	<!-- Open Graph metadata -->
+	<meta property="og:site_name" content="Andre's Blog / 網誌" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="ANDRE'S Blog / 網誌" />
+	<meta property="og:title" content="ANDRE M. CHANG | Brazil-born multicultural visual storyteller." />
 	<meta property="og:description" content="my notebook / mi cuaderno / meu caderno / 我的手札" />
 	<meta property="og:url" content="https://andremchang.github.io/blog" />
-	<meta property="og:site_name" content="ANDRE M. CHANG" />
 	<meta property="og:image" content="https://andremchang.github.io/assets/og_image_preview_blog.png" />
 	<!-- End Open Graph  metadata -->
 	<!-- X/Twitter Card metadata -->
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="ANDRE'S Blog / 網誌" />
+	<meta name="twitter:title" content="ANDRE M. CHANG | Brazil-born multicultural visual storyteller." />
 	<meta name="twitter:description" content="my notebook / mi cuaderno / meu caderno / 我的手札" />
 	<meta name="twitter:image" content="https://andremchang.github.io/assets/og_image_preview_blog.png" />
 	<meta name="twitter:site" content="@andremchang" />
@@ -35,6 +35,7 @@
 	<script src="components/footer.js"></script>
 	<script src="components/gallery.js" defer></script>
 	<a rel="me" href="https://mastodon.social/@andremchang"></a>
+
 </head>
 <body>
 <div id="top"></div>
@@ -49,8 +50,21 @@
 		<span lang="es" class="nyellow">&nbsp;Llevo un cuaderno, subo, comparto información mientras bebo un café. Tal vez cosas relacionadas con mi trabajo, viajes, experiencias de vida o pensamientos que cruzan mi mente. <a href="#post">Línea de tiempo de entrada &darr;</a></span><br><br>
 		<span lang="pt" class="ngreen">&nbsp;Eu mantenho um caderno, posteio, compartilho informação enquanto tomo um café. Talvez coisas relacionadas ao meu trabalho, viagens, experiências de vida ou pensamentos que passam pela minha cabeça. <a href="#post">Linha do tempo de postagem &darr;</a></span><br><br>
 		<span lang="zh-Hant" class="nred">&nbsp;我帶著一本手札，我喝咖啡時會張貼、分享資訊。可能與我的工作、旅行、生活經歷或腦海中閃過的想法有關。<a href="#post">貼文時間軸 &darr;</a></span>
-	<div class="card" style="text-align: left">
+
+	<div class="mascard" style="text-align: left">
 		<div id="post"></div>
+		<span lang="en" class="nblue">&nbsp;Microblogging / Mastodon feed (last 3 toots)</span><br>
+		<span lang="es" class="nyellow">&nbsp;Microblogueo / Feed de Mastodon (3 últimas entradas)</span><br>
+		<span lang="pt" class="ngreen">&nbsp;Microblogue /  Feed do Mastodon (3 últimas postagens)</span><br>
+		<span lang="zh-Hant" class="nred">&nbsp;微網誌 / Mastodon 動態(最後3則貼文)</span>
+		<!-- Dashed border -->
+		<hr class="new1">
+		<!-- End dashed border -->
+
+		<a class="mastodon-feed" href="https://mastodon.social/@andremchang" data-toot-limit="3" data-exclude-replies="false">follow me into the Fediverse</a>
+	</div>
+
+	<div class="card" style="text-align: left">
 		<span><strong>2024</strong></span>
 		<!-- Dashed border -->
 		<hr class="new1">
@@ -199,5 +213,6 @@
 	<!-- Footer -->
 	<footer-component></footer-component>
 	<!-- End Footer -->
+<script type="module" src="https://esm.sh/emfed@1"></script>
 </body>
 </html>
