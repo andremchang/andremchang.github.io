@@ -573,7 +573,7 @@ q { font-size: 18px; font-weight: 320;
 			flex-flow: column wrap;
 			justify-content: space-evenly;
 			align-content: flex-start;
-			height: 46px;  /* Avatar height. */
+			height: 46px;  /* Avatar height */
 			column-gap: 0.5rem;
 		  
 			text-decoration: none;
@@ -599,7 +599,7 @@ q { font-size: 18px; font-weight: 320;
 			color: #606085;
 		  }
 		  
-		  /* Boosting user is smaller and above the posting user. */
+		  /* Boosting user is smaller and above the posting user */
 		  .toot .boost {
 			height: 23px;
 			margin-bottom: 0.25rem;
@@ -617,9 +617,10 @@ q { font-size: 18px; font-weight: 320;
 		  
 		  .toot .permalink {
 			text-decoration: none;
-			display: block;
+			font-size: 80%;
+			display: inline-block;
 			color: #606085;
-			float: right;
+			float: none;
 		  }
 		  
 		  .toot .permalink:hover {
@@ -635,7 +636,7 @@ q { font-size: 18px; font-weight: 320;
 			overflow-wrap: anywhere;
 		  }
 		  
-		  /* Weird trick to keep the text in the page but not display it. */
+		  /* text invisible */
 		  .toot .body .invisible {
 			display: inline-block;
 			font-size: 0;
@@ -662,9 +663,6 @@ q { font-size: 18px; font-weight: 320;
 			object-fit: cover;
 		  }
 		
-		  .mastodon-feed {
-			font-size: 18px; font-weight: 320; color:#f3f3f4;
-		  }
 
 		  /* Add a card effect */
 		.mascard {
