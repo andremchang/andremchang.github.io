@@ -556,7 +556,7 @@ q { font-size: 18px; font-weight: 320;
 
 /* TOOTS */
 		.toots {
-			max-width: 700px;
+			max-width: 100%;
 			list-style: none;
 			padding: 0;
 			font-family: auto;
