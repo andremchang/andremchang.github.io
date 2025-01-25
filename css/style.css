@@ -651,16 +651,16 @@ q { font-size: 18px; font-weight: 320;
 		  }
 		  
 		  .toot .attachment {
-			display: block;
-			width: 100%;
-			aspect-ratio: 16 / 9;
-			border-radius: 4px;
+			display: inline-block;
+			width: auto;
+			aspect-ratio: auto;
+			border-radius: 0px;
 		  }
 		  
 		  .toot .attachment img {
-			width: 100%;
-			height: 100%;
-			object-fit: cover;
+			width: auto;
+			height: auto;
+			object-fit: none;
 		  }
 		
 
