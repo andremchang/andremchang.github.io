@@ -1,20 +1,11 @@
 ﻿﻿body {
-	font-family: href="https://andremchang.github.io/css?family=Inconsolata";
+	font-family: href="https://fonts.googleapis.com/css?family=Inconsolata";
 }
 
-/*@font-face {
+@font-face {
 font-family: inconsolata;
 src: url(inconsolata.woff2) format(woff2);
-}*/
-
-@font-face {
-	font-family: 'Inconsolata-VariableFont_wdth,wght';
-	font-style: auto;
-	font-weight: auto;
-	src: url(Inconsolata-VariableFont_wdth,wght.ttf) format('ttf');
-  }
-  
-
+}
 
 body {
 	font-style: normal; font-variant: normal;
