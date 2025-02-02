@@ -1,19 +1,18 @@
 ﻿﻿body {
-	font-family : "Ligconsolata-Regular";
+	font-family: "Ligconsolata-Regular";
 	/*font-family : href="https://fonts.googleapis.com/css?family=Inconsolata";*/
 }
 
 @font-face {
-font-family : "Ligconsolata-Regular";
-src : url("Ligconsolata-Regular.otf") format("opentype");
+font-family: "Ligconsolata-Regular";
+src: url("Ligconsolata-Regular.otf") format("opentype");
 }
 
 body {
 	text-align: center;
 	background-color: #3c3c3c;
-	font-family: "Ligconsolata-Regular"; 
 	color: #cccccc;
-	line-height:1.5;
+	line-height: 1.5;
 	font-style: normal; font-variant: normal;
 }
 
@@ -54,13 +53,13 @@ div.Max-width {
 	width: 95%;
 }
 
-h1 { font-size: 26px; font-weight: 620; color:#dddddd;
+h1 { font-size: 26px; font-weight: 620; color: #dddddd;
 }
-h2 { font-size: 24px; font-weight: 620; color:#dddddd;
+h2 { font-size: 24px; font-weight: 620; color: #dddddd;
 }
-h3 { font-size: 22px; font-weight: 620; color:#dddddd;
+h3 { font-size: 22px; font-weight: 620; color: #dddddd;
 }
-h4 { font-size: 20px; font-weight: 620; color:#dddddd;
+h4 { font-size: 20px; font-weight: 620; color: #dddddd;
 }
 p { font-size: 18px; font-weight: 320;
 }
@@ -99,7 +98,6 @@ q { font-size: 18px; font-weight: 320;
 	text-decoration: underline;
 	text-decoration-color: grey;
 	text-underline-position: under;
-	font-family: "Ligconsolata-Regular"; 
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -153,11 +151,11 @@ q { font-size: 18px; font-weight: 320;
 	animation:blinkingText 1.2s infinite;
 }
 @keyframes blinkingText {
-	0%{	color: #ffffff;    }
-	49%{	color: #ffffff;	}
-	60%{	color: transparent;	}
-	99%{	color: transparent;	}
-	100%{	color: #ffffff;	}
+	0%{	color: #ffffff; }
+	49%{ color: #ffffff; }
+	60%{ color: transparent; }
+	99%{ color: transparent; }
+	100%{ color: #ffffff; }
 }
 
 /* Add a card effect */
@@ -218,7 +216,7 @@ q { font-size: 18px; font-weight: 320;
 		border-color: #ffffff; /* White */
 		border-style: solid;
 		border-width: 1px;
-		color:#ffffff;
+		color: #ffffff;
 		padding: 4px 4px;
 		text-align: center;
 		border-radius: 50px;
