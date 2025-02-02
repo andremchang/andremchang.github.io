@@ -5,15 +5,16 @@
 
 @font-face {
 font-family: "Ligconsolata-Regular";
-src: url("Ligconsolata-Regular.otf") format("opentype");
+src: url("https://andremchang.github.io/css/Ligconsolata-Regular.otf") format("opentype");
 }
 
 body {
+	font-style: normal; font-variant: normal;
+	font-family: "Ligconsolata-Regular";
 	text-align: center;
 	background-color: #3c3c3c;
 	color: #cccccc;
 	line-height: 1.5;
-	font-style: normal; font-variant: normal;
 }
 
 /*Link Color*/
