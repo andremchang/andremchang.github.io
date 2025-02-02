@@ -1,15 +1,15 @@
 ﻿﻿body {
-	font-family: href="https://andremchang.github.io/css/Ligconsolata-Regular";
+	font-family: href="https://andremchang.github.io/css/inconsolata";
 }
 
 @font-face {
-font-family: Ligconsolata-Regular;
-src: url(Ligconsolata-Regular.otf) format(otf);
+font-family: inconsolata;
+src: url(inconsolata.woff2) format(woff2);
 }
 
 body {
 	font-style: normal; font-variant: normal;
-	font-family: Ligconsolata-Regular;
+	font-family: inconsolata;
 	text-align: center;
 	background-color: #3c3c3c;
 	color: #cccccc;
@@ -267,7 +267,7 @@ q { font-size: 18px; font-weight: 320;
 	figcaption {
 		background-color: #414141;
 		color: #cccccc;
-		font-family : smaller Ligconsolata-Regular; color: #cccccc;
+		font-family : smaller inconsolata; color: #cccccc;
 		padding: 10px;
 		text-align: left;
 		line-height:1.2;
