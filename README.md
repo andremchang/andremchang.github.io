@@ -1,2 +1,2 @@
-Site is made with 🧡.
+Site made with 🧡.
 Crafted by human not by AI. Text and images by Homo sapiens.
