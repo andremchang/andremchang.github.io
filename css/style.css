@@ -16,6 +16,11 @@ body {
 	line-height: 1.5;
 }
 
+* {
+	margin: 0;
+	padding: 0px;
+  }
+
 /*Link Color*/
 a:link {
 	color: #eeeeee;
@@ -53,37 +58,37 @@ div.Max-width {
 	width: 95%;
 }
 
-h1 { font-size: 26px; font-weight: 620; color: #dddddd;
+h1 { font-size: 28px; font-weight: 620; color: #dddddd;
 }
-h2 { font-size: 24px; font-weight: 620; color: #dddddd;
+h2 { font-size: 26px; font-weight: 620; color: #dddddd;
 }
-h3 { font-size: 22px; font-weight: 620; color: #dddddd;
+h3 { font-size: 24px; font-weight: 620; color: #dddddd;
 }
-h4 { font-size: 20px; font-weight: 620; color: #dddddd;
+h4 { font-size: 22px; font-weight: 620; color: #dddddd;
 }
-p { font-size: 18px; font-weight: 320;
+p { font-size: 20px; font-weight: 320;
 }
-blockquote { font-size: 18px; font-weight: 320;
+blockquote { font-size: 20px; font-weight: 320;
 }
-pre { font-size: 18px; font-weight: 320;
+pre { font-size: 20px; font-weight: 320;
 }
-span { font-size: 18px; font-weight: 320;
+span { font-size: 20px; font-weight: 320;
 }
-li { font-size: 18px; font-weight: 320;
+li { font-size: 20px; font-weight: 320;
 }
-b { font-size: 18px; font-weight: 620;
+b { font-size: 20px; font-weight: 620;
 }
-strong { font-size: 18px; font-weight: 620;
+strong { font-size: 20px; font-weight: 620;
 }
-ul { font-size: 18px; font-weight: 320;
+ul { font-size: 20px; font-weight: 320;
 }
-nav { font-size: 18px; font-weight: 320;
+nav { font-size: 20px; font-weight: 320;
 }
-a { font-size: 18px; font-weight: 320;
+a { font-size: 20px; font-weight: 320;
 }
 rt { font-size: 12px; font-weight: 320;
 }
-q { font-size: 18px; font-weight: 320;
+q { font-size: 20px; font-weight: 320;
 }
 
 
@@ -166,7 +171,7 @@ q { font-size: 18px; font-weight: 320;
 	margin-bottom: 15px;
 	box-shadow: 0 0px 10px 0 #363636;
 	transition: 0.3s;
-	border-radius: 0px;
+	border-radius: 8px;
 	max-width: none;
 }
 	
@@ -489,6 +494,7 @@ q { font-size: 18px; font-weight: 320;
 		border-style: solid;
 		border-width: 2px;
 		padding: 5px;
+		border-radius: 8px;
 	}
 	
 	.gallery div:hover {
@@ -553,126 +559,108 @@ q { font-size: 18px; font-weight: 320;
 		}
 		}
 
-/* TOOTS */
-		.toots {
-			max-width: 100%;
-			list-style: none;
-			padding: 0;
-			font-family: auto;
-		  }
-		  
-		  .toot {
-			border-bottom: 1px dashed gray;
-			padding: 1rem;
-		  }
-		  
-		  /* Posting user. */
-		  .toot .user {
-			display: flex;
-			flex-flow: column wrap;
-			justify-content: space-evenly;
-			align-content: flex-start;
-			height: 46px;  /* Avatar height */
-			column-gap: 0.5rem;
-		  
-			text-decoration: none;
-			color: inherit;
-		  }
-		  
-		  .toot .avatar {
-			border-radius: 4px;
-		  }
-		  
-		  .toot .display-name {
-			font-weight: bold;
-			display: block;
-		  }
-		  
-		  .toot .user:hover .display-name {
-			text-decoration: underline;
-		  }
-		  
-		  .toot .username {
-			display: block;
-			margin-right: 1em;
-			color: #606085;
-		  }
-		  
-		  /* Boosting user is smaller and above the posting user */
-		  .toot .boost {
-			height: 23px;
-			margin-bottom: 0.25rem;
-			column-gap: 0.25rem;
-		  }
-		  
-		  .toot .boost:before {
-			content: "♺";
-			font-size: 140%;
-		  }
-		  
-		  .toot .boost .username {
-			display: none;
-		  }
-		  
-		  .toot .permalink {
-			text-decoration: none;
-			font-size: 80%;
-			display: inline-block;
-			color: #606085;
-			float: none;
-		  }
-		  
-		  .toot .permalink:hover {
-			text-decoration: underline;
-		  }
-		  
-		  .toot .body {
-			clear: both;
-			margin-top: 1em;
-		  }
-		  
-		  .toot .body a {
-			overflow-wrap: anywhere;
-		  }
-		  
-		  /* text invisible */
-		  .toot .body .invisible {
-			display: inline-block;
-			font-size: 0;
-			line-height: 0;
-			width: 0;
-			height: 0;
-			position: absolute;
-		  }
-		  
-		  .toot .body .ellipsis::after {
-			content: "…";
-		  }
-		  
-		  .toot .attachment {
-			display: inline-block;
-			width: 50%;
-			aspect-ratio: auto;
-			border-radius: 0px;
-		  }
-		  
-		  .toot .attachment img {
-			width: 50%;
-			height: auto;
-			object-fit: auto;
-		  }
+		/* Timeline Container */
+		.timeline {
+			background: var(--primary-color);
+			margin: 20px auto;
+			padding: 20px;
+		}
 		
-
-		  /* Add a card effect */
-		.mascard {
-			background-color: #181821;
-			padding: 20px 20px;
-			margin-top: 15px;
-			margin-bottom: 15px;
+		/* Outer Layer with the timeline border */
+		.outer {
+			border-left: 2px solid #222222;
+		}
+		
+		/* Timeline Card container */
+		.timecard {
+			margin: 0 0 20px 20px;
+			padding: 10px;
+			background: #414141;
 			box-shadow: 0 0px 10px 0 #363636;
 			transition: 0.3s;
-			border-radius: 0px;
+			border-radius: 8px;
 			max-width: none;
 		}
-			  
-/* END */
+
+		/* On mouse-over, add a deeper shadow */
+		.timecard:hover {
+			box-shadow: 0 0px 10px 0 #222222;
+		}
+		
+		/* Information about the timeline */
+		.info {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+		
+		/* Title of the timeline card */
+		.titleblue {
+			color: #dddddd;
+			position: relative;
+		}
+		
+		/* Timeline dot  */
+		.titleblue::before {
+			content: "";
+			position: absolute;
+			width: 10px;
+			height: 10px;
+			background: #cccccc;
+			border-radius: 999px;
+			left: -39px;
+			border: 3px solid blue;
+		}
+					
+		.titleyellow {
+			color: #dddddd;
+			position: relative;
+		}
+		
+		/* Timeline dot  */
+		.titleyellow::before {
+			content: "";
+			position: absolute;
+			width: 10px;
+			height: 10px;
+			background: #cccccc;
+			border-radius: 999px;
+			left: -39px;
+			border: 3px solid yellow;
+		}
+
+		.titlegreen {
+			color: #dddddd;
+			position: relative;
+		}
+		
+		/* Timeline dot  */
+		.titlegreen::before {
+			content: "";
+			position: absolute;
+			width: 10px;
+			height: 10px;
+			background: #cccccc;
+			border-radius: 999px;
+			left: -39px;
+			border: 3px solid green;
+		}
+
+		.titlered {
+			color: #dddddd;
+			position: relative;
+		}
+		
+		/* Timeline dot  */
+		.titlered::before {
+			content: "";
+			position: absolute;
+			width: 10px;
+			height: 10px;
+			background: #cccccc;
+			border-radius: 999px;
+			left: -39px;
+			border: 3px solid red;
+		}
+
+		/* END */
