@@ -90,9 +90,12 @@ rt { font-size: 12px; font-weight: 320;
 }
 q { font-size: 20px; font-weight: 320;
 }
-hr { margin-top: 20px;	margin-bottom: 20px;
-}
 
+/* Dashed border */
+hr.new1 {
+	margin-top: 20px;	margin-bottom: 20px;
+	border: 1px dashed gray;
+}
 
 /* Style The Dropdown Button */
 .dropbtn {
@@ -260,9 +263,6 @@ hr { margin-top: 20px;	margin-bottom: 20px;
 		margin-right: auto;
 	}
 
-	/* Dashed border */
-	hr.new1 {
-	border: 1px dashed gray;}
 
 	/*--====== Figure ======--*/
 	figure {
