@@ -35,12 +35,11 @@
 				<li><small>This site is made with &#129505;. Crafted by human not by AI. Text and images by <i>Homo sapiens</i>.</small></li>
 				<li><small>Copyright &#169; 2025 ANDRE M. CHANG | AMC VISUAL. All rights reserved.<br>Prohibited for Generative AI/ML training.
 				<li><small>Fingerprint: B0C3 C562 C765 ECE8 C110 7897 FDE0 F655 E348 A81E</small> <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/B0C3C562C765ECE8C1107897FDE0F655E348A81E"><small>[Public key]</small></a></li>
-				<li><small>Updated on August 10, 2025.</small></li>
+				<li><small>Updated on August 30, 2025.</small></li>
 			</ul>
 		</footer>
 `;
 }
 }
-
 
 customElements.define('footer-component', Footer);
