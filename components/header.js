@@ -31,6 +31,7 @@
 
 		<header>
 			<ul class="header-row">
+					<a href="https://andremchang.github.io"><img class="u-logo" src="https://andremchang.github.io/assets/ae_logo_black.png" width="70px" height="70px" alt="ANDRÉ's logo"/></a><br>			
 							ANDRÉ M. CHANG</a><span class="blinking"><strong>_</strong></span> <span class="bblue"><a href="https://andremchang.github.io/about-me">en</a></span> <span class="byellow"><a href="https://andremchang.github.io/sobre-mi">es</a></span> <span class="bgreen"><a href="https://andremchang.github.io/sobre-min">pt</a></span> <span class="bred"><a href="https://andremchang.github.io/about-zh">zh</a></span><br><br>
 				<nav>
 					<a href="https://andremchang.github.io/publications">Publications</a> | 
@@ -39,8 +40,7 @@
 							<a href="https://andremchang.github.io/japanese_aesthetics">Japanese Aesthetics</a>
 							<a href="https://andremchang.github.io/everyday_life">Snapshot of Everyday Life</a>
 						</div>
-					</div> | 
-					<a href="https://andremchang.github.io/blog">Blog</a> | <a href="https://andremchang.github.io/links">Links</a> | <a href="https://andremchang.github.io/contact">Contact</a>
+					</div> | <a href="https://andremchang.github.io/blog">Blog</a> | <a href="https://andremchang.github.io/links">Links</a> | <a href="https://andremchang.github.io/contact">Contact</a>
 				</nav>
 			</ul>
 		</header>
