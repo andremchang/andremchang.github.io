@@ -1,4 +1,4 @@
-﻿﻿class Header extends HTMLElement {
+﻿class Header extends HTMLElement {
 	constructor() {
 	  super();
 	}
@@ -37,13 +37,17 @@
 				<a href="https://andremchang.github.io"><img class="u-logo" src="https://andremchang.github.io/assets/ae_logo_black.png" width="70px" height="70px" alt="ANDRÉ's logo"/></a><br>
 
 				<nav>
-					<a href="https://andremchang.github.io/publications">Publications</a> | 
+
+					<a href="https://andremchang.github.io/contact">Contact</a> | 
 					<div class="dropdown"><button class="dropbtn">Projects</button>
 						<div class="dropdown-content">
 							<a href="https://andremchang.github.io/japanese_aesthetics">Japanese Aesthetics</a>
 							<a href="https://andremchang.github.io/everyday_life">Snapshot of Everyday Life</a>
 						</div>
-					</div> | <a href="https://andremchang.github.io/blog">Blog</a> | <a href="https://andremchang.github.io/links">Links</a> | <a href="https://andremchang.github.io/contact">Contact</a>
+					</div> | 
+					<a href="https://andremchang.github.io/links">Links</a> | 
+					<a href="https://andremchang.github.io/blog">Blog</a>					
+
 				</nav>
 				
 			</ul>
