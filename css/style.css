@@ -28,6 +28,7 @@ a:link {
 	text-decoration: underline;
 	text-decoration-color: grey;
 	text-underline-position: under;
+	font-size: auto;
 }
 
 a:visited {
@@ -35,6 +36,7 @@ a:visited {
 	background-color: transparent;
 	text-decoration-color: grey;
 	text-underline-position: under;
+	font-size: auto;
 }
 
 a:hover {
@@ -43,13 +45,17 @@ a:hover {
 	text-decoration: underline;
 	text-decoration-thickness: 1px;
 	text-underline-position: under;
+	font-size: auto;
 }
 
 a:active {
 	color: #dddddd;
 	background-color: transparent;
 	text-decoration-color: grey;
-	text-underline-position: under;}
+	text-underline-position: under;
+	font-size: auto;
+}
+	
 /*End Link Color*/
 
 div.Max-width {
@@ -99,7 +105,7 @@ hr.new1 {
 
 /* Style The Dropdown Button */
 .dropbtn {
-	background-color: #3c3c3c;
+	background-color: transparent;
 	color: #eeeeee;
 	padding: 0px;
 	font-size: 20px;
