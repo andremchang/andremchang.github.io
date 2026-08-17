@@ -39,7 +39,7 @@
 				</li>
 				<li><small>Fingerprint: B0C3 C562 C765 ECE8 C110 7897 FDE0 F655 E348 A81E</small> <a href="https://keys.openpgp.org/search?q=B0C3+C562+C765+ECE8+C110+7897+FDE0+F655+E348+A81E" target="_blank"><small>[Public key]</small></a>
 				</li>
-				<li><img class="u-logo" src="https://andremchang.github.io/assets/photographedby.png" width="200px" height="67px" alt=""/>&nbsp;<img class="u-logo" src="https://andremchang.github.io/assets/designedby.png" width="200px" height="67px" alt=""/>&nbsp;<img class="u-logo" src="https://andremchang.github.io/assets/writtenby.png" width="200px" height="67px" alt=""/>
+				<li><img class="u-logo" src="https://andremchang.github.io/assets/photographedby.png" width="auto" height="auto" alt=""/>&nbsp;<img class="u-logo" src="https://andremchang.github.io/assets/designedby.png" width="auto" height="auto" alt=""/>&nbsp;<img class="u-logo" src="https://andremchang.github.io/assets/writtenby.png" width="auto" height="auto" alt=""/>
 				</li>
 				<li><small>Updated on Aug 17, 2026.</small></li>
 			</ul>
