@@ -41,12 +41,12 @@
 				</li>
 				<li><small>Updated on Aug 17, 2026.</small>
 				</li>
-				<li>
+			</ul>
+			<div class="h-card">
 				<img class="u-featured" src="assets/photographedby.png" width="auto" alt="">&nbsp;
 				<img class="u-featured" src="assets/designedby.png" width="auto" alt="">&nbsp;
 				<img class="u-featured" src="assets/writtenby.png" width="auto" alt="">
-				</li>
-			</ul>
+			</div>
 		</footer>
 `;
 }
