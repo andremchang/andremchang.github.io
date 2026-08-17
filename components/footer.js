@@ -43,6 +43,8 @@
 				<li><small>Updated on Aug 17, 2026.</small>
 				</li>
 				<li>
+				<img src="assets/photographedby.png" width="20%" height="auto" alt="">
+				<img src="assets/illustratedby.png" width="20%" height="auto" alt="">
 				<img src="assets/designedby.png" width="20%" height="auto" alt="">
 				<img src="assets/writtenby.png" width="20%" height="auto" alt="">
 				</li>
