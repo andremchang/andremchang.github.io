@@ -31,22 +31,23 @@
 
 		<footer>
 			<ul class="footer-row">
-				<li><a href="#top">&uarr;</a>
+			
+				<li><small><a href="#top">&uarr;</a></small>
 				</li> 
 				<li><small>This site is made with &#129505;. Crafted by human, not AI. Text and images by <i>Homo sapiens</i>.</small>
 				</li>
-				<li><small>Copyright &#169; 2026 ANDRÉ M. CHANG. All rights reserved.<br>Prohibited for Generative AI/ML training.
+				<li><small>Copyright &#169; 2026 ANDRÉ M. CHANG. All rights reserved.<br>Prohibited for Generative AI/ML training.</small>
 				</li>
-				<li><small>Fingerprint: B0C3 C562 C765 ECE8 C110 7897 FDE0 F655 E348 A81E</small> <a href="https://keys.openpgp.org/search?q=B0C3+C562+C765+ECE8+C110+7897+FDE0+F655+E348+A81E" target="_blank"><small>[Public key]</small></a>
+				<li><small>Fingerprint: B0C3 C562 C765 ECE8 C110 7897 FDE0 F655 E348 A81E</small>&nbsp;<a href="https://keys.openpgp.org/search?q=B0C3+C562+C765+ECE8+C110+7897+FDE0+F655+E348+A81E" target="_blank"><small>[Public key]</small></a>
 				</li>
 				<li><small>Updated on Aug 17, 2026.</small>
 				</li>
+				<li>
+				<img class="u-featured" src="assets/photographedby.png" width="20%" height="auto" alt="">
+				<img class="u-featured" src="assets/designedby.png" width="20%" height="auto" alt="">
+				<img class="u-featured" src="assets/writtenby.png" width="20%" height="auto" alt="">
+				</li>
 			</ul>
-			<div class="h-card">
-				<img class="u-featured" src="assets/photographedby.png" width="auto" alt="">&nbsp;
-				<img class="u-featured" src="assets/designedby.png" width="auto" alt="">&nbsp;
-				<img class="u-featured" src="assets/writtenby.png" width="auto" alt="">
-			</div>
 		</footer>
 `;
 }
