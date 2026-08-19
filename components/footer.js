@@ -34,7 +34,7 @@
 			
 				<li><small><a href="#top">&uarr;</a></small>
 				</li> 
-				<li><small>This site is made with &#129505;, crafted by human, not AI. Text and images by <i>Homo sapiens</i>.</small>
+				<li><small>This site is made with &#129505;, crafted by human, not by AI. Text and images by <i>Homo sapiens</i>.</small>
 				</li>
 				<li><small>Copyright &#169; 2026 ANDRÉ M. CHANG. All rights reserved.<br>Prohibited for Generative AI/ML training.</small>
 				</li>
@@ -46,13 +46,13 @@
 				</li>
 				<br>
 				<li>
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/photographedby.png" width="50%" height="auto" alt="ANDRÉ's badge"/></a>
+				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/photographedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/illustratedby.png" width="50%" height="auto" alt="ANDRÉ's badge"/></a>
+				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/illustratedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/designedby.png" width="50%" height="auto" alt="ANDRÉ's badge"/></a>
+				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/designedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/writtenby.png" width="50%" height="auto" alt="ANDRÉ's badge"/></a>
+				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/writtenby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 				</li>
 			</ul>
 
