@@ -42,17 +42,17 @@
 				</li>
 				<li><small><a href="https://keys.openpgp.org/search?q=B0C3+C562+C765+ECE8+C110+7897+FDE0+F655+E348+A81E" target="_blank"><small>[Public key]</small></a>
 				</li>
-				<li><small>Updated on Aug 19, 2026.</small>
+				<li><small>Updated on Aug 22, 2026.</small>
 				</li>
 				<br>
 				<li>
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/photographedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
+				<a href="https://andremchang.github.io/by_homo_sapiens_not_by_ai"><img src="https://andremchang.github.io/assets/photographedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/illustratedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
+				<a href="https://andremchang.github.io/by_homo_sapiens_not_by_ai"><img src="https://andremchang.github.io/assets/illustratedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/designedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
+				<a href="https://andremchang.github.io/by_homo_sapiens_not_by_ai"><img src="https://andremchang.github.io/assets/designedby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 
-				<a href="https://andremchang.github.io/badges"><img src="https://andremchang.github.io/assets/writtenby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
+				<a href="https://andremchang.github.io/by_homo_sapiens_not_by_ai"><img src="https://andremchang.github.io/assets/writtenby.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
 				</li>
 			</ul>
 
