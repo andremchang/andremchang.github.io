@@ -35,8 +35,11 @@
 				<li><small><a href="#top">&uarr;</a></small>
 				</li> 
 				<li><small>This site is made with &#129505;, crafted by human, not by AI.</small></li></small>
-				<li><small>Text and visuals</small><a href="https://andremchang.github.io/by_homo_sapiens_not_by_ai"><img src="https://andremchang.github.io/assets/byhomosapiens.png" width="50%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
-				</li>
+				<li>
+				<small>Text and visuals</small> 
+				<a href="https://andremchang.github.io/by_homo_sapiens_not_by_ai">
+				<img src="https://andremchang.github.io/assets/byhomosapiens.png" width="60%" height="auto" alt="“By Homo sapiens, not by AI badge”"/></a>
+				</li> 
 				<li><small>Copyright &#169; 2026 ANDRÉ M. CHANG. All rights reserved.<br>Prohibited for Generative AI/ML training.</small>
 				</li>
 				<li><small>Fingerprint: B0C3 C562 C765 ECE8 C110 7897 FDE0 F655 E348 A81E</small>
