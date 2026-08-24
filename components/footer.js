@@ -46,7 +46,7 @@
 				</li>
 				<li><small><a href="https://keys.openpgp.org/search?q=B0C3+C562+C765+ECE8+C110+7897+FDE0+F655+E348+A81E" target="_blank"><small>[Public key]</small></a>
 				</li>
-				<li><small>Updated on Aug 23, 2026.</small>
+				<li><small>Updated on Aug 24, 2026.</small>
 				</li>
 
 			</ul>
