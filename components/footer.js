@@ -70,7 +70,7 @@
 
 				<li>
 				<small>
-					<small>Updated on Aug 25, 2026.</small>
+					<small>Updated on Sep 4, 2026.</small>
 				</small>
 				</li>
 
